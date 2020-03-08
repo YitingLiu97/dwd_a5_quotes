@@ -85,6 +85,15 @@ Next steps:
 ### Webflow
 Here are the user interface flow of my website. 
 
+[General Webflow](https://github.com/YitingLiu97/mood_for_food/blob/master/photos/webflow.png)
+
+[Main Page](https://github.com/YitingLiu97/mood_for_food/blob/master/photos/mainpage.png)
+
+[Food Images](https://github.com/YitingLiu97/mood_for_food/blob/master/photos/foodimages.png)
+
+[Food Details](https://github.com/YitingLiu97/mood_for_food/blob/master/photos/fooddetails.png)
+
+[Food Details](https://github.com/YitingLiu97/mood_for_food/blob/master/photos/fooddetailsmore.png)
 
 
 <!-- Any specific challenges or struggles documented -->
