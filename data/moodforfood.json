@@ -1,10 +1,8 @@
 {
+    "description":"Another Version - Try to create a better system? This is a database collected by Yiting Liu to have relevant food for certain emotions.",
+   
+   
     "emotions": [
-        "anger",
-        "sad",
-        "stressed"
-    ],
-    "IngredientBasedonEmotions": [
         {
             "emotionType": "anger",
             "ingredientsIndividual": {
