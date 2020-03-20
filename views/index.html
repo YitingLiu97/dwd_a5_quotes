@@ -5,12 +5,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
-    <script src="client.js"></script>
+    <script src="client2.js"></script>
     <title>Welcome Page</title>
 </head>
 
 <body>
-  
+
 
     <h1>Mood for Food </h1>
     <p>Find the fillings to your feelings.</p>
@@ -22,8 +22,44 @@
         <option value="stressed">Stressed</option>
     </select>
 
-    <button id="moodtofood" >Show me the food</button>
+    <button id="moodtofood">Show me the food</button>
     <p id="output">show here</p>
+
+    <div class="foodContent">
+        <h2 id="foodName"></h2>
+        <img id="foodImg" src="" alt="">
+        <p id="foodDescription"></p>
+    </div>
+
+    <div class='ingredeintContent'>
+        <h2 id='ingredeint'></h2>
+        <p id='benefits'></p>
+        <a id='ingredientLink' href="#"></a>
+    </div>
+
+    <div class='recipeContent'>
+        <h1>Details</h1>
+        <ul id ="recipeDetails"></ul>
+        <h1>Instructions</h1>
+        <ol id='recipeInstructions'></ol>
+
+        <a id="readmore" href="">read more</a>
+        <!-- <button type="button "id="readmore" onclick='readmore()'></button> -->
+    </div>
+
+
+
+
+    <!-- <div>
+        <img src="#" alt="" id="foodImg"> Food Img with img url
+        <h1 id ="foodname">Food Name</h1>
+        <h2 id="Details">Ingredient Detail</h2>
+        <ol id="instructions">
+            <li>Instructions</li>
+        </ol>
+        <a href="#" id="url">give a url link to the cuisine</a>
+
+    </div> -->
 
 </body>
 
