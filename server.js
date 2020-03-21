@@ -36,10 +36,10 @@ const foodsList = mongoose.Schema({
 const recipeList = mongoose.Schema({
     recipeName: String,
     description: String,
-    IngredientsDetailed: Array,
-    Instructions: Array,
+    ingredientsDetails: Array,
+    instructions: Array,
     url: String,
-    Imgurl: String
+    imgUrl: String
 });
 
   const emotions = mongoose.model("EmotionList", emotionList);

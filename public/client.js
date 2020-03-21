@@ -109,12 +109,12 @@ function displayFood(foodList){
     foodList.forEach(e=>{
         foodName.innerHTML=e.recipeName;
 
-        foodImg.src=e.Imgurl;
+        foodImg.src=e.imgUrl;
         foodImg.alt=e.recipeName;
         // foodImg.setAttribute('a',e.url);
 
         // console.log(foodImg.src);   
-        // detailsList.innerHTML=e.IngredientsDetailed;
+        // detailsList.innerHTML=e.ingredientsDetails;
         foodDescription.innerHTML=e.description;
 
 
@@ -126,7 +126,7 @@ function displayFood(foodList){
         // recipeDetailUL.appendChild(detailList);
         // detailList.innerHTML+=e;
 
-    //    const detailsList=e.IngredientsDetailed.map((detail)=>{
+    //    const detailsList=e.ingredientsDetails.map((detail)=>{
     //        const singleDetail = document.createElement('li');
     //        singleDetail.innerHTML=detail;
     //    });
@@ -136,7 +136,7 @@ function displayFood(foodList){
     
 
         //show instructions in a list
-        // const instructionsList=e.Instructions.map((instruction)=>{
+        // const instructionsList=e.instructions.map((instruction)=>{
         //     console.log(`instruction is ${instruction}`);
         //     return `<li>${instruction}</li>`
         // }).join("");

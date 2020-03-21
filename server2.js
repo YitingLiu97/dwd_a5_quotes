@@ -17,9 +17,9 @@ app.get("/about", (req, res) => {
     res.sendFile(path.join(__dirname, "views/about.html"))
 });
 
-const contents = fs.readFileSync(path.join(__dirname, "./data/moodforfood.json"));
-const obj = JSON.parse(contents);
-const emotions = obj.emotions;
+// const contents = fs.readFileSync(path.join(__dirname, "./data/newdb.json"));
+// const obj = JSON.parse(contents);
+// const emotions = obj.emotions;
 
 function getEmotions() {
     let emotionType = [];

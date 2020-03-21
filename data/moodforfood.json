@@ -12,7 +12,7 @@
                         {
                             "recipeName": "Iced Green Tea",
                             "description": "Iced green tea with lemon, lime, and fresh mint is a refreshing and revitalizing beverage for those warm days. Each glass is naturally sweetened with honey.",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "1/4 cup lime juice, plus 3 limes sliced for garnish",
                                 "1/4 cup lemon juice, plus 2 lemons sliced for garnish",
                                 "5 cups water, (2 cups boiling, plus 3 cups cold)",
@@ -20,7 +20,7 @@
                                 "1/4 cup honey, plus more if desired (up to 1/2 cup)",
                                 "18 mint leaves"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Transfer lime juice and lemon juice to a large pitcher.",
                                 "Bring 2 cups of water to boil in a medium saucepan. Once the water reaches 170 to 185°F, add 5 green tea bags into the hot water.",
                                 "Steep for 3 minutes or according to package instructions.",
@@ -30,12 +30,12 @@
                                 "Serve chilled green tea with ice cubes, a few lime slices, lemon slices and 3 fresh mint leaves in each glass."
                             ],
                             "url": "https://www.jessicagavin.com/jasmine-green-iced-tea-limeade/",
-                            "Imgurl": "https://www.jessicagavin.com/wp-content/uploads/2014/07/iced-green-tea-lime-lemon-honey.jpg"
+                            "imgUrl": "https://www.jessicagavin.com/wp-content/uploads/2014/07/iced-green-tea-lime-lemon-honey.jpg"
                         },
                         {
                             "recipeName": "Chamomile Mint Tea",
                             "description": "For this, it's especially nice if you use jasmine tea, which is made from green and black tea leaves, because of its flowers. Chamomile and lavender heighten the floral bouquet and create a pretty pattern when they unfurl in a glass cup or pot.",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "2 lemons",
                                 "1 cup fresh mint leaves",
                                 "1 cup green tea leaves",
@@ -43,32 +43,32 @@
                                 "1/4 cup dried chamomile flowers crumbled",
                                 "1 tablespoon dried lavender"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Using vegetable peeler, peel rind (avoiding pith) from lemons. ",
                                 "Place on rack with mint and let dry at room temperature until brittle, about 24 hours.",
                                 "Break lemon rind into 1/4-inch (5 mm) pieces in bowl. Mix in mint leaves, tea leaves, chamomile flowers and lavender. ",
                                 "Spoon into decorative bag or airtight jar. Makes about 30 servings."
                             ],
                             "url": "https://www.canadianliving.com/food/recipe/chamomile-mint-tea",
-                            "Imgurl": "https://ak1.picdn.net/shutterstock/videos/1024159061/thumb/12.jpg"
+                            "imgUrl": "https://ak1.picdn.net/shutterstock/videos/1024159061/thumb/12.jpg"
                         },
                         {
                             "recipeName": "Green Ginger Mint Tea",
                             "description": "Gunpowder tea with spearmint is a popular Moroccan digestive. Gunpowder leaves are rolled into small balls that unfurl in hot water to release a slightly bitter, smoky infusion. This refreshing brew is also good iced. Sweeten with honey, if desired.",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "4 tangerines or 2 oranges",
                                 "1 piece (4 inches/10 cm) gingerroot",
                                 "2 bunches spearmint stems removed",
                                 "1 cup green tea leaves such as gunpowder"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Peel rind from tangerines (remove pith); place on rack. ",
                                 "Slice gingerroot into 1/8-inch (3 mm) thick slices; place on rack. ",
                                 "Remove leaves from spearmint; place on rack. Let dry at room temperature until brittle, about 24 hours. ",
                                 "Break into 1-inch (2.5 cm) pieces."
                             ],
                             "url": "https://www.canadianliving.com/food/recipe/green-ginger-mint-tea",
-                            "Imgurl": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2Farchive%2F8d3f7a321ddc60598dfbc6bc43b608e076bf20af"
+                            "imgUrl": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2Farchive%2F8d3f7a321ddc60598dfbc6bc43b608e076bf20af"
                         }
                     ]
                 },
@@ -80,7 +80,7 @@
                         {
                             "recipeName": "Spicy Fennel Linguine With Sardines & Capers",
                             "description": "Fennel adds an aniseed punch to this quick pasta dish with chilli-infused sardines, zesty lemon and parsley.",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "175g linguine (or spaghetti)",
                                 "120g can sardines",
                                 "piccanti (packed in chilli-infused oil - see tip below)",
@@ -91,7 +91,7 @@
                                 "handful flat-leaf parsley, roughly chopped",
                                 "1 tbsp extra virgin olive oil (optional)"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Cook the pasta following pack instructions until al dente. ",
                                 "Meanwhile, drain the oil from the sardines into a large frying pan set over a medium heat. ",
                                 "Add the fennel, garlic and lemon zest, then cook for 10 mins, stirring often, until the fennel is tender and starting to colour.",
@@ -101,12 +101,12 @@
                                 "Season to taste. If the pasta seems a little dry, add 2 tbsp of the cooking water and stir gently. Pile onto plates and drizzle with the extra virgin olive oil, if you like."
                             ],
                             "url": "https://www.bbcgoodfood.com/recipes/spicy-fennel-linguine-sardines-capers",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/spicy_fennel_linguine_with_sardines_capers.jpg?itok=vBzaeBwt"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/spicy_fennel_linguine_with_sardines_capers.jpg?itok=vBzaeBwt"
                         },
                         {
                             "recipeName": "Sardine Pasta With Crunchy Parsley Crumbs",
                             "description": "An affordable way to include oily fish in your diet. Canned sardines are a great source of omega 3 and add oomph to this simple, family pasta dish.",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "1 tbsp olive oil",
                                 "50g dried breadcrumbs",
                                 "3 garlic cloves, finely chopped",
@@ -118,7 +118,7 @@
                                 "small pack parsley leaves chopped",
                                 "25g parmesan,finely grated"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Heat 1 tsp olive oil in a non-stick frying pan over a low-medium heat. Add the breadcrumbs and cook, stirring, until they start to turn golden. Add another 1 tsp oil and the garlic. ",
                                 "Cook, stirring, for a moment, then tip onto a plate and set aside to cool.",
                                 "Put a large pan of salted water on to boil. Return the frying pan to a medium heat. ",
@@ -130,12 +130,12 @@
                                 "Toss the pasta in the sauce and serve in bowls, each topped with a handful of the crunchy breadcrumb."
                             ],
                             "url": "https://www.bbcgoodfood.com/recipes/sardine-pasta-crunchy-parsley-crumbs",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe/recipe-image/2017/01/sardine-pasta.jpg?itok=freCF8jD"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe/recipe-image/2017/01/sardine-pasta.jpg?itok=freCF8jD"
                         },
                         {
                             "recipeName": "Spanish Sardines On Toast",
                             "description": "Enjoy the taste of the Med with this fresh, wholesome supper using an oily fish that's packed with omega-3 and a good, cheap storecupboard staple",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "1 tbsp olive oil",
                                 "1 garlic clove, chopped",
                                 "1 red chilli, deseeded and chopped",
@@ -144,31 +144,31 @@
                                 "4 slices brown bread",
                                 "half small bunch parsley, chopped"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Heat the olive oil in a frying pan, then sizzle the garlic clove and red chilli. Add the lemon zest.",
                                 "Add the sardines and heat through for a few mins until warm.",
                                 "Toast the brown bread. Stir the parsley into the sardines, add a squeeze of lemon juice, then divide between the toast and serve."
                             ],
                             "url": "https://www.bbcgoodfood.com/recipes/spanish-sardines-toast",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--776558_11.jpg?itok=Av7K3SXu"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--776558_11.jpg?itok=Av7K3SXu"
                         },
                         {
                             "recipeName": "Mediterranean Sardine Salad",
                             "description": "A superhealthy salad that's full of intense flavours with oily fish, olives and capers",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "90g bag salad leaves handful black olives, roughly chopped",
                                 "1 tbsp caper, drained",
                                 "2 x 120g cans sardines in tomato sauce, drained and sauce reserved",
                                 "1 tbsp olive oil",
                                 "1 tbsp red wine vinegar"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Divide the salad leaves between 4 plates, then sprinkle over the olives and capers.",
                                 "Roughly break up the sardines and add to the salad.",
                                 "Mix the tomato sauce with the oil and vinegar and drizzle over the salad."
                             ],
                             "url": "https://www.bbcgoodfood.com/recipes/mediterranean-sardine-salad",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--775471_11.jpg?itok=n2qTbNvc"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--775471_11.jpg?itok=n2qTbNvc"
                         }
                     ]
                 },
@@ -180,7 +180,7 @@
                         {
                             "recipeName": "Brilliant Banana Loaf",
                             "description": "A cross between banana bread and a drizzle cake, this easy banana loaf recipe is a quick bake that can be frozen and is great for using up overripe bananas.",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "140g butter, softened, plus extra for the tin",
                                 "140g caster sugar",
                                 "2 large eggs, beaten",
@@ -190,7 +190,7 @@
                                 "50g icing sugar",
                                 "handful dried banana chips, for decoration"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Heat oven to 180C/160C fan/gas 4.",
                                 "Butter a 2lb loaf tin and line the base and sides with baking parchment.",
                                 "Cream 140g softened butter and 140g caster sugar until light and fluffy, then slowly add 2 beaten large eggs with a little of the 140g flour. ",
@@ -201,12 +201,12 @@
                                 "Drizzle the icing across the top of the cake and decorate with a handful of banana chips."
                             ],
                             "url": "https://www.bbcgoodfood.com/recipes/brilliant-banana-loaf",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--1273522_8.jpg?itok=P8cLT0gJ"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--1273522_8.jpg?itok=P8cLT0gJ"
                         },
                         {
                             "recipeName": "Banana Pancakes",
                             "description": "Gluten-free banana pancakes you can whip up in just 10 minutes! Scatter with pecans and raspberries to enjoy a low-calorie yet indulgent breakfast",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "1 large banana",
                                 "2 medium eggs, beaten",
                                 "pinch of baking powder (gluten-free if coeliac)",
@@ -215,7 +215,7 @@
                                 "25g pecans, roughly chopped",
                                 "125g raspberries"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "In a bowl, mash 1 large banana with a fork until it resembles a thick purée.",
                                 "Stir in 2 beaten eggs, a pinch of baking powder (gluten-free if coeliac) and a splash of vanilla extract.",
                                 "Heat a large non-stick frying pan or pancake pan over a medium heat and brush with ½ tsp oil.",
@@ -223,12 +223,12 @@
                                 "Top the pancakes with 25g roughly chopped pecans and 125g raspberries. "
                             ],
                             "url": "https://www.bbcgoodfood.com/recipes/banana-pancakes",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe/recipe-image/2016/05/banana-pancakes.jpg?itok=OIckISk5"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe/recipe-image/2016/05/banana-pancakes.jpg?itok=OIckISk5"
                         },
                         {
                             "recipeName": "Banana & Walnut Loaf",
                             "description": "This homely and wholesome cake is also light and moist, with the natural sweetness of sticky bananas and the warm toastiness of nuts",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "100g softened butter, plus a little extra for greasing",
                                 "140g caster sugar",
                                 "1 beaten egg",
@@ -238,7 +238,7 @@
                                 "85g chopped walnuts",
                                 "50ml milk"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Heat oven to 180C/160C fan/gas 4. Grease a 2lb loaf tin with some butter and line the base with baking parchment, then grease this as well.",
                                 "In a large bowl, mix together the butter, sugar and egg, then slowly mix in flour and baking powder. Peel, then mash the bananas. Now mix everything together, including the nuts.",
                                 "Pour your mixture into the tin and bake for 1 hr, or until a skewer comes out clean. Allow the cake to cool on a wire rack before removing from the loaf tin. ",
@@ -246,12 +246,12 @@
                                 "Serve in thick slices topped with vanilla ice cream and drizzled with a little Easy chocolate sauce (see recipe, below)."
                             ],
                             "url": "https://www.bbcgoodfood.com/recipes/banana-walnut-loaf",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--263532_11.jpg?itok=rbjgl-Sd"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--263532_11.jpg?itok=rbjgl-Sd"
                         },
                         {
                             "recipeName": "Cinnamon Porridge With Banana & Berries",
                             "description": "Start the day in a superhealthy way with energy-boosting oats and fresh fruit",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "100g porridge oats",
                                 "½ tsp cinnamon, plus extra to serve",
                                 "4 tsp demerara sugar",
@@ -260,13 +260,13 @@
                                 "400g punnet strawberries, hulled and halved",
                                 "150g pot fat-free natural yogurt"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "In a medium-sized saucepan, mix the oats, cinnamon, sugar, milk and half the sliced bananas. ",
                                 "Bring to the boil, stirring occasionally. Turn down the heat and cook for 4-5 mins, stirring all the time.",
                                 "Remove and divide between 4 bowls, top with the remaining banana, strawberries, a dollop of yogurt and a sprinkle of cinnamon."
                             ],
                             "url": "https://www.bbcgoodfood.com/recipes/cinnamon-porridge-banana-berries",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--1071551_11.jpg?itok=W5u8tdvU"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--1071551_11.jpg?itok=W5u8tdvU"
                         }
                     ]
                 },
@@ -278,7 +278,7 @@
                         {
                             "recipeName": "Pea Risotto",
                             "description": "This risotto makes the most of peas with a pea purée, pea shoots and cooked sweet little peas",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "50g butter",
                                 "1 onion, finely chopped",
                                 "300g frozen or cooked fresh peas",
@@ -289,35 +289,35 @@
                                 "2 good handfuls pea shoots",
                                 "extra-virgin olive oil, to drizzle (optional)"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Melt the butter in a large pan, add the onion and gently sweat for about 10 mins until really soft. Meanwhile, put 100g peas into a food processor with a ladleful of stock and whizz until completely puréed.",
                                 "Stir the rice into the onion, increase heat to medium and sizzle the rice for 1 min. Pour in the wine, then bubble and stir until completely absorbed. Continue cooking like this, adding a ladleful of stock at a time, and stirring continuously until the rice is tender and has a good creamy consistency – this will take 20-30 mins.",
                                 "Stir in the puréed peas, remaining peas, Parmesan and some seasoning, then turn off the heat and leave to stand for a few mins. Give the risotto a final stir, spoon into shallow bowls and top with some pea shoots and a drizzle of olive oil, if you like."
                             ],
                             "url": "https://www.bbcgoodfood.com/recipes/pea-risotto",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--257530_12.jpg?itok=K744F9WG"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--257530_12.jpg?itok=K744F9WG"
                         },
                         {
                             "recipeName": "Pea-Camole",
                             "description": "Big kids love avocado, little kids love peas – and they add a good natural sweetness to this chilli-topping classic. It makes a handy vegan side dish too",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "200g frozen peas",
                                 "2 ripe avocados, halved, stoned and peeled",
                                 "2 limes, juiced small bunch coriander"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Boil the kettle. Tip the peas into a mixing bowl and cover with about 2.5cm of boiling water. ",
                                 "Leave for 5 mins to defrost, then drain well and tip back into the bowl.",
                                 "Add the avocados with the lime juice and some salt, and mash everything together. ",
                                 "Roughly chop the coriander and briefly mash through before serving."
                             ],
                             "url": "https://www.bbcgoodfood.com/recipes/pea-camole",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe/recipe-image/2016/11/peacamole-.jpg?itok=8AYxHNpr"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe/recipe-image/2016/11/peacamole-.jpg?itok=8AYxHNpr"
                         },
                         {
                             "recipeName": "Pea Mousse",
                             "description": "Impress dinner guests with this creamy pea mousse, which makes a great dessert that's bang on trend. Decorate with pea shoots and flowers for the wow factor",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "120ml double cream",
                                 "120ml milk",
                                 "3 ⅓ sheets gelatine (the sheets are easy to snap into thirds)",
@@ -328,7 +328,7 @@
                                 "200g frozen petits pois",
                                 "defrosted pea shoots and edible flowers, to decorate"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Put the cream and milk in a pan and heat slowly until almost boiling.",
                                 "Soak the gelatine in cold water until floppy.",
                                 "Put the egg yolks in a bowl with the sugar and whisk together with the salt.",
@@ -339,12 +339,12 @@
                                 "Either chill in a box or divide the mixture between glasses and chill them. If you’ve chilled the mixture in a box, spoon or pipe it into glasses to serve and decorate with pea shoots and flowers."
                             ],
                             "url": "https://www.bbcgoodfood.com/recipes/pea-mousse",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe/recipe-image/2018/06/pea-mousse.jpg?itok=r0pJA8qd"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe/recipe-image/2018/06/pea-mousse.jpg?itok=r0pJA8qd"
                         },
                         {
                             "recipeName": "Lemony Prawn & Pea Risotto",
                             "description": "Stirring can be strangely soothing, as you'll find when preparing this summery seafood risotto",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "400g bag raw prawns, in their shells, defrosted if frozen",
                                 "3 tbsp olive oil",
                                 "1 red chilli, deseeded, half sliced and half finely chopped",
@@ -356,7 +356,7 @@
                                 "200g frozen peas",
                                 "zest and juice 1 lemon"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Peel the prawns, keeping the heads and shells. ",
                                 "Heat 1 tbsp olive oil in a large saucepan and fry the prawn shells and heads with the sliced chilli until they have toasted and changed colour. ",
                                 "Pour in the stock and bring to the boil, then turn down to a simmer.",
@@ -370,7 +370,7 @@
                                 "Cook until the prawns change colour. Stir through the chopped chilli, lemon juice and remaining olive oil. Let the risotto rest for a few mins, then serve, topped with the lemon zest."
                             ],
                             "url": "https://www.bbcgoodfood.com/recipes/lemony-prawn-pea-risotto",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--192513_11.jpg?itok=n0SaIJjY"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--192513_11.jpg?itok=n0SaIJjY"
                         }
                     ]
                 },
@@ -382,7 +382,7 @@
                         {
                             "recipeName": "Banana & Walnut Loaf",
                             "description": "This homely and wholesome cake is also light and moist, with the natural sweetness of sticky bananas and the warm toastiness of nuts",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "100g softened butter, plus a little extra for greasing",
                                 "140g caster sugar",
                                 "1 beaten egg",
@@ -392,7 +392,7 @@
                                 "85g chopped walnuts",
                                 "50ml milk"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Heat oven to 180C/160C fan/gas 4. Grease a 2lb loaf tin with some butter and line the base with baking parchment, then grease this as well.",
                                 "In a large bowl, mix together the butter, sugar and egg, then slowly mix in flour and baking powder. ",
                                 "Peel, then mash the bananas. Now mix everything together, including the nuts.",
@@ -401,12 +401,12 @@
                                 "Defrost and warm through before serving. Serve in thick slices topped with vanilla ice cream and drizzled with a little Easy chocolate sauce (see recipe, below)."
                             ],
                             "url": "https://www.bbcgoodfood.com/recipes/banana-walnut-loaf",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--263532_11.jpg?itok=rbjgl-Sd"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--263532_11.jpg?itok=rbjgl-Sd"
                         },
                         {
                             "recipeName": "Coffee Cream & Walnut Cupcakes",
                             "description": "Retro favourite coffee and walnut cake in a cupcake version, with a choice of luxurious mascarpone topping or classic buttercream",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "100g butter, well softened",
                                 "100g light muscovado sugar",
                                 "100g self-raising flour",
@@ -417,7 +417,7 @@
                                 "200ml tub mascarpone (you'll find this with the soft cheeses)",
                                 "2 tbsp light muscovado sugar"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Heat oven to 180C/fan 160C/gas 4 and make sure there’s a shelf ready in the middle. Line a 12-hole bun tin with fairy cake cases. Beat the butter, sugar, flour and eggs with 4 tsp of the coffee and a pinch of salt until creamy. Stir in the chopped walnuts.",
                                 "Spoon the mix into the cases (start by adding 1 heaped tsp to each, then go back and top them up – that way they should all be of equal size), then bake for 18-20 mins until light golden and springy. ",
                                 "Cool for a few mins in the tin, then lift the cakes out and cool completely on a rack.",
@@ -427,12 +427,12 @@
                                 "Un-iced cakes will keep up to 2 days in an airtight container."
                             ],
                             "url": "https://www.bbcgoodfood.com/recipes/coffee-cream-walnut-cupcakes",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--1273562_8.jpg?itok=mhPnc_rh"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--1273562_8.jpg?itok=mhPnc_rh"
                         },
                         {
                             "recipeName": "Roquefort & Walnut Rolls",
                             "description": "Use your favourite cheese in these delicious rolls from Great British Bake Off judge Paul Hollywood",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "140g walnuts",
                                 "100g wholemeal flour",
                                 "400g strong white bread flour",
@@ -441,7 +441,7 @@
                                 "250g roquefort cheese, crumbled",
                                 "2 medium eggs, beaten"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Place the walnuts in a food processor and pulse to chop finely; leave to one side. Put the flours, 10g salt, yeast, butter and 300ml water in a bowl, stir together and begin massaging the ingredients for a minute.",
                                 "If the mixture seems dry, add more water a tbsp at a time to make a soft but not sticky dough, then knead in the bowl for a further couple of minutes to bring the dough together.",
                                 "Tip the dough onto a lightly floured work surface and knead well for 10 mins before returning to the bowl. Cover the bowl with cling film and leave to rise in a warm place for 1 hr.",
@@ -453,7 +453,7 @@
                                 "Leave to cool for a few minutes and eat while still warm. These are delicious on their own or served with a soup or a chunky salad with apple in it."
                             ],
                             "url": "https://www.bbcgoodfood.com/recipes/roquefort-walnut-rolls",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--781508_11.jpg?itok=eq9K1sXI"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--781508_11.jpg?itok=eq9K1sXI"
                         }
                     ]
                 },
@@ -465,7 +465,7 @@
                         {
                             "recipeName": "Lemony Prawn & Pea Risotto",
                             "description": "Stirring can be strangely soothing, as you'll find when preparing this summery seafood risotto",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "400g bag raw prawns, in their shells, defrosted if frozen",
                                 "3 tbsp olive oil",
                                 "1 red chilli, deseeded, half sliced and half finely chopped",
@@ -477,7 +477,7 @@
                                 "200g frozen peas",
                                 "zest and juice 1 lemon"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Peel the prawns, keeping the heads and shells. Heat 1 tbsp olive oil in a large saucepan and fry the prawn shells and heads with the sliced chilli until they have toasted and changed colour.",
                                 "Pour in the stock and bring to the boil, then turn down to a simmer.",
                                 "Bring the stock to the boil and keep on a low simmer. In a separate pan, melt half the butter over a medium heat.",
@@ -488,12 +488,12 @@
                                 "Stir through the chopped chilli, lemon juice and remaining olive oil. Let the risotto rest for a few mins, then serve, topped with the lemon zest."
                             ],
                             "url": "https://www.bbcgoodfood.com/recipes/lemony-prawn-pea-risotto",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--192513_11.jpg?itok=n0SaIJjY"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--192513_11.jpg?itok=n0SaIJjY"
                         },
                         {
                             "recipeName": "Spicy Fennel Linguine With Sardines & Capers",
                             "description": "Fennel adds an aniseed punch to this quick pasta dish with chilli-infused sardines, zesty lemon and parsley",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "175g linguine (or spaghetti)",
                                 "120g can sardines",
                                 "piccanti (packed in chilli-infused oil - see tip below)",
@@ -504,7 +504,7 @@
                                 "handful flat-leaf parsley, roughly chopped",
                                 "1 tbsp extra virgin olive oil (optional)"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Cook the pasta following pack instructions until al dente.",
                                 "Meanwhile, drain the oil from the sardines into a large frying pan set over a medium heat.",
                                 "Add the fennel, garlic and lemon zest, then cook for 10 mins, stirring often, until the fennel is tender and starting to colour.",
@@ -515,18 +515,18 @@
                                 "Pile onto plates and drizzle with the extra virgin olive oil, if you like."
                             ],
                             "url": "https://www.bbcgoodfood.com/recipes/spicy-fennel-linguine-sardines-capers",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/spicy_fennel_linguine_with_sardines_capers.jpg?itok=vBzaeBwt"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/spicy_fennel_linguine_with_sardines_capers.jpg?itok=vBzaeBwt"
                         },
                         {
                             "recipeName": "Lemon Curd",
                             "description": "There’s nothing quite like a simple, zesty, homemade lemon curd. Perfect on toast, scones, hot buttered crumpets or rippled through ice cream",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "2 lemons, zest and juice",
                                 "100g caster sugar",
                                 "50g butter",
                                 "2 eggs, beaten"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Put the lemon zest, juice, sugar and butter in a heatproof bowl over a pan of simmering water.",
                                 "Stir occasionally until the butter has melted. Then, using a small whisk or fork, stir in the beaten egg.",
                                 "Keep gently whisking the mixture over the heat for around 10 mins until thickened like custard.",
@@ -534,12 +534,12 @@
                                 "Keeps in the fridge for up to 2 weeks."
                             ],
                             "url": "https://www.bbcgoodfood.com/recipes/lemon-curd",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe/recipe-image/2016/12/lemon-curd.jpg?itok=o4XoeApF"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe/recipe-image/2016/12/lemon-curd.jpg?itok=o4XoeApF"
                         },
                         {
                             "recipeName": "Lemon Bars",
                             "description": "These slices of zesty lemony goodness are hard to resist",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "For the slice base",
                                 "175g plain flour",
                                 "50g ground rice",
@@ -553,7 +553,7 @@
                                 "25g flour",
                                 "icing sugar, to dust"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Heat oven to 200C/180C fan/gas 6. Line a 21 or 22cm square, shallow baking tin with baking parchment.",
                                 "Put the flour, ground rice and sugar in a bowl with the butter and rub in until fine crumbs form.",
                                 "Stir in the milk with a cutlery knife. Tip into the tin and press down evenly. Bake for 15-20 mins until golden.",
@@ -561,7 +561,7 @@
                                 "Whisk to combine, pour over the base, then bake for 10-15 mins until the top is just set. Cool in the tin, dust with icing sugar, then slice."
                             ],
                             "url": "https://www.bbcgoodfood.com/recipes/lemon-bars",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--358544_12.jpg?itok=_fjclEWS"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--358544_12.jpg?itok=_fjclEWS"
                         }
                     ]
                 }
@@ -578,23 +578,23 @@
                         {
                             "recipeName": "Orange Sorbet",
                             "description": "A refreshing and simple way to round off a rich meal, using only three ingredients",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "300ml orange juice",
                                 "2 star anise",
                                 "100g caster sugar"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Put the orange juice, star anise and sugar into a pan.",
                                 "Bring to the boil, stirring, until the sugar has dissolved,then remove the star anise.",
                                 "Cool, then pour into an ice-cream machine and churn until smooth and frozen. (If you don’t have an ice-cream machine, cool the mixture, then tip into a freezerproof container and freeze until firm, whisking every hour with a fork to break up the ice crystals.)"
                             ],
                             "url": "https://www.bbcgoodfood.com/recipes/orange-sorbet",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--16080_11.jpg?itok=5nFXkZYa"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--16080_11.jpg?itok=5nFXkZYa"
                         },
                         {
                             "recipeName": "Spiced Beetroot & Orange Chutney",
                             "description": "Serve this vividly coloured chutney with cheeses and cold meats - great to give as a gift, too.",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "1½ kg raw beetroot, trimmed, peeled and diced (wear gloves!)",
                                 "3 onions, chopped",
                                 " eating apples, peeled and grated",
@@ -606,7 +606,7 @@
                                 "700ml red wine vinegar",
                                 "700g golden granulated sugar"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "In a preserving pan or your largest saucepan, mix together all the ingredients well.",
                                 "Bring to a gentle simmer, then cook for 1 hr, stirring occasionally, until the chutney is thick and the beetroot tender.",
                                 "While the chutney is cooking, prepare your jars by running through a short hot wash in your dishwasher.",
@@ -614,12 +614,12 @@
                                 "You can eat it straight away but it will be even better after a month. Will keep for up to 6 months in a cool dark place. Once opened, refrigerate and eat within 2 months."
                             ],
                             "url": "https://www.bbcgoodfood.com/recipes/spiced-beetroot-orange-chutney",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe/recipe-image/2012/09/recipe-image-legacy-id-1067545_10.jpg?itok=QOJwRWZW"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe/recipe-image/2012/09/recipe-image-legacy-id-1067545_10.jpg?itok=QOJwRWZW"
                         },
                         {
                             "recipeName": "No-Bake Orange Cheesecake",
                             "description": "This is an easy cheesecake for kids to prepare ahead for Mother’s Day, with a little help from Dad",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "15 digestive biscuits",
                                 "6 tbsp butter, melted",
                                 "400g curd or cream cheese",
@@ -629,7 +629,7 @@
                                 "3 tbsp milk",
                                 "184ml pot double cream"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Crush the biscuits roughly. You can either do this by putting them in a plastic food bag and crushing them with a wooden spoon or you can crumble them with your fingers.",
                                 "Put the biscuits into a bowl and mix in the melted butter. Put the mixture into a 23cm cheesecake tin and, using your fingers or the back of a spoon to spread it evenly, press it down in the tin to form the base.",
                                 "Put the tin into the fridge to set. This should take about 30 mins.",
@@ -641,17 +641,17 @@
                                 "Decorate with segments of orange and return to the fridge until ready to serve (at least 4 hours or overnight)."
                             ],
                             "url": "https://www.bbcgoodfood.com/recipes/no-bake-orange-cheesecake",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/user-collections/my-colelction-image/2015/12/recipe-image-legacy-id--47412_11.jpg?itok=LB5EI-Mo"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/user-collections/my-colelction-image/2015/12/recipe-image-legacy-id--47412_11.jpg?itok=LB5EI-Mo"
                         },
                         {
                             "recipeName": "Ultimate Seville Orange Marmalade",
                             "description": "The original, and classic, English marmalade, as made famous by Paddington Bear",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "1.3kg Seville orange",
                                 "2 lemons, juice only",
                                 "2.6kg preserving or granulated sugar"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Put the whole oranges and lemon juice in a large preserving pan and cover with 2 litres/4 pints water - if it does not cover the fruit, use a smaller pan. If necessary weight the oranges with a heat-proof plate to keep them submerged.",
                                 "Bring to the boil, cover and simmer very gently for around 2 hours, or until the peel can be easily pierced with a fork.",
                                 "Warm half the sugar in a very low oven. Pour off the cooking water from the oranges into a jug and tip the oranges into a bowl.",
@@ -663,7 +663,7 @@
                                 "Repeat from step 3 for second batch, warming the other half of the sugar first."
                             ],
                             "url": "https://www.bbcgoodfood.com/recipes/ultimate-seville-orange-marmalade",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe/recipe-image/2011/02/marmalade.jpg?itok=SROy-bvo"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe/recipe-image/2011/02/marmalade.jpg?itok=SROy-bvo"
                         }
                     ]
                 },
@@ -675,7 +675,7 @@
                         {
                             "recipeName": "Chicken & Broccoli Pasta Bake",
                             "description": "This dish can be assembled ready for baking a good few hours ahead - and it's all cooked in one pan.",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "350g pasta",
                                 "shells or quills",
                                 "200g broccoli, cut into very small florets and the stems thinly sliced",
@@ -691,7 +691,7 @@
                                 "1 garlic clove, finely chopped",
                                 "50g flaked almonds"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Heat the oven to 190C/ fan170C/ gas 5. Bring a large pan of salted water to the boil.",
                                 "Throw in 350g pasta shells or quills, stir well and return to the boil.",
                                 "Cook for 6 minutes, then add 200g broccoli, cut into very small florets and stems thinly sliced, and cook for 5-6 minutes more until the pasta is just cooked.",
@@ -704,12 +704,12 @@
                                 "Bake for 20 minutes until golden."
                             ],
                             "url": "https://www.bbcgoodfood.com/recipes/chicken-broccoli-pasta-bake",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--52035_12.jpg?itok=BBzw46wU"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--52035_12.jpg?itok=BBzw46wU"
                         },
                         {
                             "recipeName": "Broccoli And Kale Green Soup",
                             "description": "This super healthy soup combines broccoli and kale with ginger, coriander and turmeric for a nutrient dense and low-fat lunch",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "500ml stock, made by mixing 1 tbsp bouillon powder and boiling water in a jug",
                                 "1 tbsp sunflower oil",
                                 "2 garlic cloves, sliced",
@@ -723,19 +723,19 @@
                                 "1 lime, zested and juiced",
                                 "small pack parsley, roughly chopped, reserving a few whole leaves to serve"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Put the oil in a deep pan, add the garlic, ginger, coriander, turmeric and salt, fry on a medium heat for 2 mins, then add 3 tbsp water to give a bit more moisture to the spices.",
                                 "Add the courgettes, making sure you mix well to coat the slices in all the spices, and continue cooking for 3 mins. Add 400ml stock and leave to simmer for 3 mins.",
                                 "Add the broccoli, kale and lime juice with the rest of the stock. Leave to cook again for another 3-4 mins until all the vegetables are soft.",
                                 "Take off the heat and add the chopped parsley. Pour everything into a blender and blend on high speed until smooth. It will be a beautiful green with bits of dark speckled through (which is the kale). Garnish with lime zest and parsley."
                             ],
                             "url": "https://www.bbcgoodfood.com/recipes/alkalising-green-soup",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/alkalising-green-soup.jpg?itok=QzUSx2Cq"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/alkalising-green-soup.jpg?itok=QzUSx2Cq"
                         },
                         {
                             "recipeName": "Broccoli Baked Potatoes",
                             "description": "Put a new spin on the classic baked potato with this quick and tasty recipe.",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "4 baking potatoes",
                                 "300g broccoli",
                                 ", cut into small florets",
@@ -743,7 +743,7 @@
                                 "1 egg, beaten",
                                 "140g grated cheddar"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Heat oven to 200C/180C fan/gas 6. Microwave the potatoes on High for 12-15 mins until tender.",
                                 "Meanwhile, steam or boil the broccoli for 3 mins, then drain well.",
                                 "When the potatoes have cooled a little, cut them in half lengthways and scoop the insides into a bowl.",
@@ -752,7 +752,7 @@
                                 "Serve with salad and Tomato relish (see recipe, below)."
                             ],
                             "url": "https://www.bbcgoodfood.com/recipes/broccoli-baked-potatoes",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--560987_11.jpg?itok=J2YhWam0"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--560987_11.jpg?itok=J2YhWam0"
                         }
                     ]
                 },
@@ -764,12 +764,12 @@
                         {
                             "recipeName": "Grape Jelly",
                             "description": "This slightly tart, vibrant red jelly makes a lovely change from the usual jams",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "1kg red grapes, preferable with seeds (stripped from the stalks)",
                                 "450g jam sugar(with added pectin)",
                                 "juice 1 lemon"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Tip the grapes into a large saucepan set over a low heat, then cover and leave to gently cook for 5 mins until the juices start to run.",
                                 "Take a potato masher or fork and mash up the grapes. Leave to cook for about 10 mins more, mashing every now and again until the grapes are falling apart.",
                                 "Place a clean tea towel or kitchen cloth in a sieve set over a bowl, then pour the grape mixture into this. Let the mixture drip through for at least 1 hr or preferably overnight.",
@@ -778,12 +778,12 @@
                                 "After 1 min, run your finger through; if the jam wrinkles slightly, it’s ready. Pour the hot jam into a sterilised jar. Will keep unopened for up to 3 months."
                             ],
                             "url": "https://www.bbcgoodfood.com/recipes/grape-jelly",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--12219_12.jpg?itok=glpc4nIh"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--12219_12.jpg?itok=glpc4nIh"
                         },
                         {
                             "recipeName": "Baked Feta With Sumac & Grapes",
                             "description": "A modern dinner party starter that’s great for a budget - salty feta, sweet grapes, tangy sumac and aniseed dill create contrasting yet complementary flavours.",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "1 small red onion, halved and sliced",
                                 "2 tbsp red wine vinegar",
                                 "1 tsp golden caster sugar",
@@ -793,7 +793,7 @@
                                 "½ small pack dill, chopped",
                                 "2 x 250g blocks feta bread or sesame flatbreads, to serve (optional)"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Put the red onion in a bowl and add the vinegar, sugar and a pinch of salt.",
                                 "Massage everything together with your fingers for 1 min – this will slightly pickle the onions.",
                                 "Heat oven to 200C/180C fan/gas 6.",
@@ -805,12 +805,12 @@
                                 "Scatter over the remaining dill, then serve in the middle of the table with bread for scooping up the cheese, grapes and juices."
                             ],
                             "url": "https://www.bbcgoodfood.com/recipes/baked-feta-sumac-grapes",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe/recipe-image/2017/01/baked-feta.jpg?itok=NQ0G1YD4"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe/recipe-image/2017/01/baked-feta.jpg?itok=NQ0G1YD4"
                         },
                         {
                             "recipeName": "Sticky Sprouts With Grapes & Walnuts",
                             "description": "Want to spruce up your sprouts? Our inventive recipe with sweet grapes, Greek yogurt mint dressing and crunchy nuts won't disappoint.",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "800g Brussels sprout",
                                 "6 tbsp fig jam",
                                 "2 tbsp balsamic vinegar",
@@ -819,7 +819,7 @@
                                 "200g thick Greek yogurt",
                                 "2 tbsp chopped mint, plus a few small leaves to garnish"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Boil a large pan of water and add the sprouts. Boil for 8 mins, or until just cooked through but not soggy.",
                                 "Drain, cool, then halve. Can be chilled for up to 24 hrs.",
                                 "Melt the fig jam and balsamic vinegar together in a big frying pan or wok.",
@@ -828,7 +828,7 @@
                                 "Garnish with a few extra mint leaves."
                             ],
                             "url": "https://www.bbcgoodfood.com/recipes/sticky-sprouts-grapes-walnuts",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/sticky-sprouts.jpg?itok=5bV_WU4G"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/sticky-sprouts.jpg?itok=5bV_WU4G"
                         }
                     ]
                 },
@@ -840,7 +840,7 @@
                         {
                             "recipeName": "Red Thai Salmon Curry",
                             "description": "Make this as spicy as you like and experiment with different veg. It will soon become a last minute favourite",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "1 tsp vegetable or sunflower oil",
                                 "1 tbsp Thai red curry paste",
                                 "1 onion, sliced",
@@ -849,7 +849,7 @@
                                 "200g pack trimmed green bean",
                                 "coriander or basil, to serve"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Heat the oil in a large pan, then add the curry paste.",
                                 "Stir in the onion, then cook gently for about 5 mins until softened.",
                                 "Pour in the coconut milk and bring to the boil.",
@@ -858,12 +858,12 @@
                                 "Scatter with the coriander or basil, and serve with plain rice."
                             ],
                             "url": "https://www.bbcgoodfood.com/recipes/red-thai-salmon-curry",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--338885_11.jpg?itok=T3roKGXI"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--338885_11.jpg?itok=T3roKGXI"
                         },
                         {
                             "recipeName": "Herby Salmon & Couscous Parcels",
                             "description": "Whip up a weekday meal in less than 30 minutes - this recipe is easily doubled too",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "110g pack lemon and garlic couscous",
                                 "200ml hot vegetable stock",
                                 "1 tbsp olive oil",
@@ -872,7 +872,7 @@
                                 "4 Sun-blush or sundried tomatoes, chopped",
                                 "2 salmon fillets, approx 140g/5oz each"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Put the couscous into a bowl and stir in the stock and oil.",
                                 "Cover with cling film and leave to stand 10 mins, then uncover and fluff up with a fork.",
                                 "Put the couscous into a bowl and stir in the stock and oil.",
@@ -889,12 +889,12 @@
                                 "Serve in the bag."
                             ],
                             "url": "https://www.bbcgoodfood.com/recipes/herby-salmon-couscous-parcels",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--52751_11.jpg?itok=c7ZCKeZh"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--52751_11.jpg?itok=c7ZCKeZh"
                         },
                         {
                             "recipeName": "Salmon Rillettes",
                             "description": "A little like a salmon terrine, this dish is terrific with homemade bread, served as a starter.",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "500g skinless salmon fillet",
                                 "200g pack Philadelphia cheese",
                                 "1 zest of 1 lemon, and juice of ½ lemon",
@@ -911,7 +911,7 @@
                                 "1 tsp wholegrain mustard",
                                 "5 tbsp crème fraîche"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Put the salmon and poaching ingredients into a pan and just cover with cold water.",
                                 "Bring to a gentle boil, then turn down and poach for 4 mins. set aside, off the heat, for 5 mins to carry on cooking.",
                                 "Lift out the salmon and break into large flakes with a fork. Allow to cool.",
@@ -927,7 +927,7 @@
                                 "Serve with the toasted bread, lemon wedges and dressed salad leaves."
                             ],
                             "url": "https://www.bbcgoodfood.com/recipes/salmon-rillettes",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--424602_12.jpg?itok=wCiY49eK"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--424602_12.jpg?itok=wCiY49eK"
                         }
                     ]
                 },
@@ -939,7 +939,7 @@
                         {
                             "recipeName": "Mini Prosciutto & Asparagus Frittatas",
                             "description": "These simple savouries are a great addition to your first picnic of the year – or as a light lunch treat, whatever the weather",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "12 slices prosciutto",
                                 "1 tbsp olive oil",
                                 "1 onion, chopped",
@@ -949,7 +949,7 @@
                                 "100ml milk",
                                 "85g parmesan, grated"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Heat oven to 180C/160C fan/gas 4.",
                                 "Grease a 12-hole muffin tin and line each hole with a slice of prosciutto to cover the base and sides.",
                                 "Heat oil in a small frying pan and cook onion for 5 mins, until soft.",
@@ -962,12 +962,12 @@
                                 "Allow to cool for a few mins then remove from tin and eat warm or cold."
                             ],
                             "url": "https://www.bbcgoodfood.com/recipes/mini-prosciutto-asparagus-frittatas",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--1201536_11.jpg?itok=Yz8Fe6Eu"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--1201536_11.jpg?itok=Yz8Fe6Eu"
                         },
                         {
                             "recipeName": "Farfalle With Chicken, Asparagus & Pancetta",
                             "description": "Invite some friends over and wow them with this delectable, creamy dish",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "500g asparagus",
                                 "2 lemons",
                                 "100g thinly sliced pancetta",
@@ -978,7 +978,7 @@
                                 "a few gratings of fresh nutmeg",
                                 "50g parmesan, freshly grated, plus extra for serving"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Trim the asparagus and cut into short lengths on the diagonal – keep the tips separate. (If you like, peel the stems to give a more vibrant colour when cooked.)",
                                 "Cook the stems in salted boiling water for about 4 minutes, then add the tips and cook for 1 minute more. Drain and refresh under cold running water.",
                                 "Peel the lemons with a serrated knife, remove all the white pith, then cut into segments by slicing each side of the pieces of membrane.",
@@ -989,18 +989,18 @@
                                 "Toss well, adding black pepper and nutmeg to taste, and the grated parmesan. Toss again, top with the pancetta and serve immediately."
                             ],
                             "url": "https://www.bbcgoodfood.com/recipes/farfalle-chicken-asparagus-pancetta",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--527_11.jpg?itok=PglHyx74"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--527_11.jpg?itok=PglHyx74"
                         },
                         {
                             "recipeName": "Asparagus Omelette",
                             "description": "A quick and easy asparagus omelette that makes the most of seasonal greens. Serve up this veggie supper for two with pesto and crunchy seeds.",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "large bunch of asparagus, sliced in half lengthways",
                                 "6 large eggs",
                                 "145g tub fresh pesto",
                                 "2 x 25g seeds snack packs (we used Munchy Seeds)"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Heat grill to high.",
                                 "Toss the asparagus in olive oil, season and cook in an ovenproof frying pan until softened.",
                                 "Mix the eggs with half the pesto. Take half of the asparagus out of the pan, then spread out the rest.",
@@ -1008,7 +1008,7 @@
                                 "Fold over, then repeat with the rest of the ingredients. Drizzle the remaining pesto over the omelettes and sprinkle the seeds on top."
                             ],
                             "url": "https://www.bbcgoodfood.com/recipes/asparagus-omelette",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe/recipe-image/2017/04/asparagus-omelette.jpg?itok=opxgIQ3C"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe/recipe-image/2017/04/asparagus-omelette.jpg?itok=opxgIQ3C"
                         }
                     ]
                 },
@@ -1020,7 +1020,7 @@
                         {
                             "recipeName": "Dark Chocolate & Prune Mousse",
                             "description": "A luscious dessert that's low in fat and sugar as only a small amount of chocolate is used.",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "410g can prunes, in apple juice",
                                 "1 tbsp brandy (optional)",
                                 "50g dark chocolate (70% cocoa solids), broken into pieces",
@@ -1028,7 +1028,7 @@
                                 "300g natural Greek-style yogurt",
                                 "1 tbsp pistachio nuts, roughly chopped"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Drain off and reserve the juice from the prunes, then press each prune gently between your fingers to slip out the stone.",
                                 "Tip the prunes with the apple juice into a food processor or blender (there should be no more than 100ml juice).",
                                 "Add the brandy, if using, then process the fruit to a purée.",
@@ -1039,12 +1039,12 @@
                                 "Chill in the fridge for at least 1 hr before serving, then scatter over the pistachio nuts to decorate."
                             ],
                             "url": "https://www.bbcgoodfood.com/recipes/dark-chocolate-prune-mousse",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--1321_11.jpg?itok=VD8I5cAg"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--1321_11.jpg?itok=VD8I5cAg"
                         },
                         {
                             "recipeName": "Boozy Chocolate Bombes",
                             "description": "Showstopping individual coffee sponges with hidden mousse, and a Baileys and white chocolate topping - stunning!",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "100ml Irish cream liqueur (we used Baileys)",
                                 "200g white chocolate(use cheaper chocolate, it will melt better), broken into pieces",
                                 "real or artificial holly, to decorate",
@@ -1065,7 +1065,7 @@
                                 "50g caster sugar",
                                 "75ml double cream"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Heat oven to 180C/160C fan/gas 4. Butter 6 x 150ml ovenproof pudding moulds and put a disc of baking parchment in the base of each.",
                                 "To make the sponge, put the butter, chocolate and coffee in a bowl over a pan of simmering water.",
                                 "Gently heat until melted, add the vanilla and stir to combine. Set aside to cool a little.",
@@ -1085,7 +1085,7 @@
                                 "Leave the white chocolate to set for 20 mins before serving."
                             ],
                             "url": "https://www.bbcgoodfood.com/recipes/2768680/boozy-chocolate-bombes",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--1155518_11.jpg?itok=WobwPytG"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--1155518_11.jpg?itok=WobwPytG"
                         }
                     ]
                 }
@@ -1102,25 +1102,25 @@
                         {
                             "recipeName": "Pea-Camole",
                             "description": "Big kids love avocado, little kids love peas – and they add a good natural sweetness to this chilli-topping classic. It makes a handy vegan side dish too",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "200g frozen peas",
                                 "2 ripe avocados, halved, stoned and peeled",
                                 "2 limes, juiced",
                                 "small bunch coriander"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Boil the kettle. Tip the peas into a mixing bowl and cover with about 2.5cm of boiling water.",
                                 "Leave for 5 mins to defrost, then drain well and tip back into the bowl.",
                                 "Add the avocados with the lime juice and some salt, and mash everything together.",
                                 "Roughly chop the coriander and briefly mash through before serving."
                             ],
                             "url": "https://www.bbcgoodfood.com/recipes/pea-camole",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe/recipe-image/2016/11/peacamole-.jpg?itok=8AYxHNpr"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe/recipe-image/2016/11/peacamole-.jpg?itok=8AYxHNpr"
                         },
                         {
                             "recipeName": "Avocado Salad",
                             "description": "Try serving this superhealthy salad with crisp za'atar bread for a Middle Eastern feast",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "4 Cos lettuce leaves, chopped",
                                 "6 cherry tomatoes, halved",
                                 "2 radishes, finely sliced",
@@ -1135,19 +1135,19 @@
                                 "1 tbsp lemon juice",
                                 "2 tbsp olive oil"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "For the dressing, mix the crushed garlic with a pinch of salt, the lemon juice and olive oil.",
                                 "Set aside until ready to serve.",
                                 "Combine the salad ingredients in a bowl, season and toss with the dressing just before serving.",
                                 "Serve with Crisp Za'atar bread (see below) and Chermoula-marinated mackerel (see 'Goes well with')."
                             ],
                             "url": "https://www.bbcgoodfood.com/recipes/avocado-salad",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--358479_12.jpg?itok=QRGYXgRn"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--358479_12.jpg?itok=QRGYXgRn"
                         },
                         {
                             "recipeName": "Avocado Panzanella",
                             "description": "With just 20 minutes preparation and no cooking time you'll be able to whip up this colourful avocado and bread salad in no time.",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "800g mix of ripe tomatoes",
                                 "1 garlic clove, crushed",
                                 "1½ tbsp capers, drained and rinsed",
@@ -1158,7 +1158,7 @@
                                 "2 tbsp red wine vinegar",
                                 "small handful basil leaves"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Halve or roughly chop the tomatoes (depending on size) and put them in a bowl.",
                                 "Season well and add the garlic, capers, avocado and onion, and mix well. Set aside for 10 mins.",
                                 "Meanwhile, tear or slice the ciabatta into 3cm chunks and place in a large serving bowl or on a platter.",
@@ -1166,26 +1166,26 @@
                                 "Scatter with the basil leaves and drizzle over the remaining oil and vinegar. Give it a final stir and serve immediately."
                             ],
                             "url": "https://www.bbcgoodfood.com/recipes/avocado-panzanella",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/panzanella.jpg?itok=Y-JiwB-7"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/panzanella.jpg?itok=Y-JiwB-7"
                         },
                         {
                             "recipeName": "Avocado On Toast",
                             "description": "Make this simple speedy breakfast with just a handful of ingredients. Our avocado toast uses crusty sourdough bread and a pinch of chilli for a kick.",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "1 ripe avocado",
                                 "½ lemon",
                                 "big pinch chilli flakes",
                                 "2 slices sourdough bread",
                                 "good drizzle extra virgin olive oil"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Cut the avocado in half and carefully remove its stone, then scoop out the flesh into a bowl.",
                                 "Squeeze in the lemon juice then mash with a fork to your desired texture.",
                                 "Season to taste with sea salt, black pepper and chilli flakes.",
                                 "Toast your bread, drizzle over the oil then pile the avocado on top."
                             ],
                             "url": "https://www.bbcgoodfood.com/recipes/avocado-toast",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe/recipe-image/2018/03/avocado-on-toast.jpg?itok=yV6yyvoX"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe/recipe-image/2018/03/avocado-on-toast.jpg?itok=yV6yyvoX"
                         }
                     ]
                 },
@@ -1197,7 +1197,7 @@
                         {
                             "recipeName": "Blueberry Swirl Cheesecake",
                             "description": "The creamy, sweet texture of this baked vanilla pudding is complemented by a vibrant fruit sauce",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "300g digestive biscuit",
                                 "140g butter, melted",
                                 "275g golden caster sugar",
@@ -1209,7 +1209,7 @@
                                 "3 large eggs",
                                 "200ml pot soured cream"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Heat oven to 200C/180C fan/gas 6. Line a 20 x 30cm rectangular tin with baking parchment.",
                                 "Put the biscuits in a food processor and blitz to a fine crumb. Add the butter and blitz again to combine.",
                                 "Tip into the tin, press down firmly with the back of a spoon to cover the base, then bake for 10 mins. Leave to cool.",
@@ -1227,12 +1227,12 @@
                                 "Will keep in the fridge for up to 5 days."
                             ],
                             "url": "https://www.bbcgoodfood.com/recipe/blueberry-swirl-cheesecake",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/user-collections/my-colelction-image/2015/12/cheesecake.jpg?itok=YKwcMieo"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/user-collections/my-colelction-image/2015/12/cheesecake.jpg?itok=YKwcMieo"
                         },
                         {
                             "recipeName": "Blueberry Clafoutis",
                             "description": "Gordon Ramsay’s dessert is bursting with berry and almond flavours, and can be prepared well in advance - in fact, it's best to make the batter 24 hours ahead",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "85g flaked almond, lightly toasted",
                                 "25g plain flour",
                                 "good pinch sea salt",
@@ -1244,7 +1244,7 @@
                                 "a little softened butter, for buttering dishes",
                                 "sifted icing sugar, to dust"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Grind the almonds to a very fine powder in a small food processor then blend in the flour and salt.",
                                 "Add the sugar, whole eggs, yolks and cream.",
                                 "Whizz until creamy smooth. (If you’re making ahead, tip the batter into a jug at this point and store in the fridge for up to 24 hours.)",
@@ -1253,12 +1253,12 @@
                                 "Give the batter a good stir, pour into the dishes and bake for about 18-20 minutes, or until risen and lightly firm. Dust with icing sugar and serve warm."
                             ],
                             "url": "https://www.bbcgoodfood.com/recipes/blueberry-clafoutis",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--837_12.jpg?itok=QOYhduAo"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--837_12.jpg?itok=QOYhduAo"
                         },
                         {
                             "recipeName": "American Blueberry Pancakes",
                             "description": "Light, fluffy and fruity, these pancakes are a US classic. Serve them stacked high with syrup and extra fruit.",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "200g self-raising flour",
                                 "1 tsp baking powder",
                                 " 1 egg",
@@ -1268,7 +1268,7 @@
                                 "sunflower oil or a little butter for cooking",
                                 "golden or maple syrup"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Mix together 200g self-raising flour, 1 tsp baking powder and a pinch of salt in a large bowl.",
                                 "Beat 1 egg with 300ml milk, make a well in the centre of the dry ingredients and whisk in the milk to make a thick smooth batter.",
                                 "Beat in a knob of melted butter, and gently stir in half of the 150g pack of blueberries.",
@@ -1279,12 +1279,12 @@
                                 "Serve with golden or maple syrup and the rest of the blueberries."
                             ],
                             "url": "https://www.bbcgoodfood.com/recipes/american-blueberry-pancakes",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/user-collections/my-colelction-image/2015/12/recipe-image-legacy-id--1273456_8.jpg?itok=g5CULmyI"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/user-collections/my-colelction-image/2015/12/recipe-image-legacy-id--1273456_8.jpg?itok=g5CULmyI"
                         },
                         {
                             "recipeName": "Blueberry Mojito",
                             "description": "Sip our refreshing blueberry mojito when the sun starts to shine. This easy cocktail can be mixed up in minutes with a handful of ingredients.",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "100g blueberries",
                                 "3 lemons, chopped",
                                 "2 tbsp granulated sugar",
@@ -1292,13 +1292,13 @@
                                 "350ml white rum",
                                 "600ml sparkling water"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Put the blueberries, lemons and sugar in a jug and muddle.",
                                 "Bruise the mint leaves and add them to the jug with lots of ice.",
                                 "Pour over the rum and sparkling water and stir together."
                             ],
                             "url": "https://www.bbcgoodfood.com/recipes/blueberry-mojito",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe/recipe-image/2019/06/blueberry-mojito.jpg?itok=-_wK8xfU"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe/recipe-image/2019/06/blueberry-mojito.jpg?itok=-_wK8xfU"
                         }
                     ]
                 },
@@ -1310,7 +1310,7 @@
                         {
                             "recipeName": "Turkey Laksa",
                             "description": "Turkey isn't just for Christmas. Packed with protein, vitamins and lean too, it makes a great substitute for that other white meat.",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "1-2 tbsp Thai red curry paste, depending on taste",
                                 "1lb chicken stock",
                                 "500g/ 1lb 2oz skinless turkey breast, cut into strips",
@@ -1322,7 +1322,7 @@
                                 "2 tsp sugar",
                                 "small handful coriander"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Heat a large saucepan and fry the curry paste for 1 min, until fragrant.",
                                 "Tip in the stock and bring to the boil, then throw in the turkey and cook for 5 mins.",
                                 "Add the rice noodles and cook for 3 mins more.",
@@ -1330,12 +1330,12 @@
                                 "Add the coconut milk, bring to a simmer, season with the lime juice and sugar, then spoon into bowls, sprinkle with the coriander leaves and serve."
                             ],
                             "url": "https://www.bbcgoodfood.com/recipes/turkey-laksa",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--613684_11.jpg?itok=YbzSxD1x"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--613684_11.jpg?itok=YbzSxD1x"
                         },
                         {
                             "recipeName": "Turkey Curry",
                             "description": "Go classic with your turkey leftovers and whip up this healthy spice-filled stew with peppers and tomatoes.",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "1 tbsp sunflower oil",
                                 "1 large onion, thickly sliced",
                                 "1 green pepper, deseeded and chopped",
@@ -1348,7 +1348,7 @@
                                 "small pack coriander, roughly chopped",
                                 "rice or naan bread, to serve"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Heat the oil in a large pan over a fairly high heat.",
                                 "Cook the onion and pepper for 3-4 mins until starting to soften and brown slightly.",
                                 "Stir in the curry paste and garlic, then cook for another 1-2 mins.",
@@ -1357,12 +1357,12 @@
                                 "Scatter with coriander and serve with rice or naan."
                             ],
                             "url": "https://www.bbcgoodfood.com/recipes/turkey-potato-curry",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/curry_1.jpg?itok=cjZLDxfj"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/curry_1.jpg?itok=cjZLDxfj"
                         },
                         {
                             "recipeName": "Turkey Tabbouleh",
                             "description": "Turkey breast packs plenty of lean protein. Serve in a wholegrain bulgur wheat salad with fresh mint and parsley, tomatoes, cucumber and onion",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "2 tbsp 0% fat Greek yogurt",
                                 "1 garlic clove, crushed",
                                 "½ tsp smoked paprika",
@@ -1375,7 +1375,7 @@
                                 "2 tbsp chopped parsley",
                                 "2 tbsp chopped mint"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Heat the grill and line a baking tray with foil.",
                                 "Mix the yogurt, garlic, paprika and a squeeze of lemon, then stir in the turkey.",
                                 "Arrange on the tray.",
@@ -1383,7 +1383,7 @@
                                 "Grill the turkey for 5-8 mins, then serve hot or cold with the bulgur salad. Will keep in the fridge for 2 days."
                             ],
                             "url": "https://www.bbcgoodfood.com/recipes/turkey-tabbouleh",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/turkey-tabbouleh.jpg?itok=h9OHXpAo"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/turkey-tabbouleh.jpg?itok=h9OHXpAo"
                         }
                     ]
                 },
@@ -1395,12 +1395,12 @@
                         {
                             "recipeName": "Almond Butter",
                             "description": "If you think there's no spread quite like peanut butter, try this version, sweetened with honey, as an energy-boosting snack.",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "300g skin-on almond",
                                 "good drizzle honey",
                                 "malt loaf or wholegrain bread, to serve (optional)"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Heat oven to 190C/170C fan/gas 5. Spread the almonds on a baking tray and roast for 10 mins.",
                                 "Remove and allow to cool.",
                                 "Put into a food processor and whizz for 12 mins, stopping every so often to scrape the sides down, and finish with a drizzle of honey.",
@@ -1408,12 +1408,12 @@
                                 "Will keep in the fridge for up to 3 weeks."
                             ],
                             "url": "https://www.bbcgoodfood.com/recipes/almond-butter",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--1286508_8.jpg?itok=lfkSxKZF"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--1286508_8.jpg?itok=lfkSxKZF"
                         },
                         {
                             "recipeName": "Fish Tagine With Saffron & Almonds",
                             "description": "A low calorie Moroccan fish stew flavoured with saffron, almonds, cinnamon, ginger and more. It's ideal for entertaining- make a batch ahead and freeze.",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "1 tbsp olive oil",
                                 " 1 onion, chopped",
                                 " good pinch saffron",
@@ -1435,7 +1435,7 @@
                                 "½ green chilli, (deseeded if you don't like it too hot), to serve couscous",
                                 "and natural yogurt, to serve (optional)"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Heat the oil in a large pan. Add the onion and cook for a few mins until soft.",
                                 "Meanwhile, put the saffron in the hot stock and leave to steep. Add the garlic, ginger and chilli to the pan and cook for a few mins more.",
                                 "Tip in the spices and tomato purée, stir for a few mins until fragrant, then add the tomatoes, ground almonds, orange zest and juice, honey and saffron-scented stock, making sure that you use all of the saffron strands.",
@@ -1446,7 +1446,7 @@
                                 "Serve scattered with the chilli, along with some couscous and a blob of natural yogurt, if you like."
                             ],
                             "url": "https://www.bbcgoodfood.com/recipe/fish-tagine-saffron-almonds",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/tagine.jpg?itok=5mXST4s4"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/tagine.jpg?itok=5mXST4s4"
                         }
                     ]
                 },
@@ -1458,7 +1458,7 @@
                         {
                             "recipeName": "Cinnamon Porridge With Banana & Berries",
                             "description": "Start the day in a superhealthy way with energy-boosting oats and fresh fruit",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "100g porridge oats",
                                 "½ tsp cinnamon, plus extra to serve",
                                 "4 tsp demerara sugar",
@@ -1467,18 +1467,18 @@
                                 "400g punnet strawberries, hulled and halved",
                                 "150g pot fat-free natural yogurt"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "In a medium-sized saucepan, mix the oats, cinnamon, sugar, milk and half the sliced bananas.",
                                 "Bring to the boil, stirring occasionally. Turn down the heat and cook for 4-5 mins, stirring all the time.",
                                 "Remove and divide between 4 bowls, top with the remaining banana, strawberries, a dollop of yogurt and a sprinkle of cinnamon."
                             ],
                             "url": "https://www.bbcgoodfood.com/recipes/cinnamon-porridge-banana-berries",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--1071551_11.jpg?itok=W5u8tdvU"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--1071551_11.jpg?itok=W5u8tdvU"
                         },
                         {
                             "recipeName": "Rhubarb & Almond Crumble Tart",
                             "description": "A smarter version of the traditional rhubarb crumble, perfect for dinner parties - use ready-made dessert pastry to keep it simple.",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "375g pack shortcrust pastry",
                                 "a little plain flour",
                                 "750g rhubarb, sliced into thumb-size chunks",
@@ -1492,7 +1492,7 @@
                                 "175g light muscovado sugar",
                                 "handful flaked almonds"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Heat oven to 200C/fan 180C/gas 6. Roll out the pastry on a lightly floured surface, then line a 23cm tart tin with it. Chill in the fridge.",
                                 " Tip the rhubarb into a roasting tray with the sugar and juice, then toss together.",
                                 "Cover with foil, then bake for 30-40 mins.",
@@ -1504,7 +1504,7 @@
                                 "Leave the tart until just warm, then turn out and serve with the rhubarb syrup and some crème fraîche."
                             ],
                             "url": "https://www.bbcgoodfood.com/recipes/rhubarb-almond-crumble-tart",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--19538_12.jpg?itok=a31Zkwzc"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--19538_12.jpg?itok=a31Zkwzc"
                         }
                     ]
                 },
@@ -1516,7 +1516,7 @@
                         {
                             "recipeName": "Chamomile Mint Tea",
                             "description": "For this, it's especially nice if you use jasmine tea, which is made from green and black tea leaves, because of its flowers. Chamomile and lavender heighten the floral bouquet and create a pretty pattern when they unfurl in a glass cup or pot.",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "2 lemons",
                                 "1 cup fresh mint leaves",
                                 "1 cup green tea leaves",
@@ -1524,29 +1524,29 @@
                                 "1/4 cup dried chamomile flowers crumbled",
                                 "1 tablespoon dried lavender"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Using vegetable peeler, peel rind (avoiding pith) from lemons.",
                                 "Place on rack with mint and let dry at room temperature until brittle, about 24 hours.",
                                 "Break lemon rind into 1/4-inch (5 mm) pieces in bowl. Mix in mint leaves, tea leaves, chamomile flowers and lavender.",
                                 "Spoon into decorative bag or airtight jar. Makes about 30 servings."
                             ],
                             "url": "https://www.canadianliving.com/food/recipe/chamomile-mint-tea",
-                            "Imgurl": "https://ak1.picdn.net/shutterstock/videos/1024159061/thumb/12.jpg"
+                            "imgUrl": "https://ak1.picdn.net/shutterstock/videos/1024159061/thumb/12.jpg"
                         },
                         {
                             "recipeName": "Camomile Tea With Honey",
                             "description": "Combine dried camomile flowers with aromatic lavender and honey to make this wonderfully calming tea, perfect in the morning or for winding down in the evening.",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "2 tsp dried camomile flowers",
                                 "pinch dried lavender, optional",
                                 "2 tsp runny honey"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Put the camomile and lavender into the teapot and fill up the pot with water that has boiled but been left to stand for 1 min.",
                                 "Leave the flowers to infuse for 2-3 mins, stir in the honey then strain in to cups to serve."
                             ],
                             "url": "https://www.bbcgoodfood.com/recipes/camomile-tea-honey",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe/recipe-image/2018/05/chamomile-tea.jpg?itok=utZGhJQk"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe/recipe-image/2018/05/chamomile-tea.jpg?itok=utZGhJQk"
                         }
                     ]
                 },
@@ -1558,7 +1558,7 @@
                         {
                             "recipeName": "Spinach & Ricotta Gnocchi",
                             "description": "These luxurious gnocchi are both light and spoilingly rich at the same time",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "200g young spinach, washed",
                                 "small handful parsley",
                                 "leaves, finely chopped",
@@ -1570,7 +1570,7 @@
                                 "freshly grated nutmeg",
                                 "olive oil and rocket, to serve"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Boil the kettle. Place the spinach in a large bowl and pour boiling water over it.",
                                 "Leave for 2 mins until wilted, then drain thoroughly. Leave to cool, then wrap a clean tea towel around the spinach.",
                                 "Hold it over the sink and squeeze out as much water as possible. Finely chop.",
@@ -1581,12 +1581,12 @@
                                 "Serve the gnocchi on warm plates drizzled with olive oil and scattered with rocket and more cheese."
                             ],
                             "url": "https://www.bbcgoodfood.com/recipes/spinach-ricotta-gnocchi",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--293464_11.jpg?itok=UGuASBSe"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--293464_11.jpg?itok=UGuASBSe"
                         },
                         {
                             "recipeName": "Spinach, Sweet Potato & Lentil Dhal",
                             "description": "A comforting vegan one-pot recipe that counts for 3 of your 5-a-day! You can't go wrong with this iron-rich, low-fat, low-calorie supper",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "1 tbsp sesame oil",
                                 "1 red onion, finely chopped",
                                 "1 garlic clove, crushed",
@@ -1601,7 +1601,7 @@
                                 "4 spring onions, sliced on the diagonal, to serve",
                                 "½ small pack of Thai basil, leaves torn, to serve"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Heat 1 tbsp sesame oil in a wide-based pan with a tight-fitting lid.",
                                 "Add 1 finely chopped red onion and cook over a low heat for 10 mins, stirring occasionally, until softened.",
                                 "Add 1 crushed garlic clove, a finely chopped thumb-sized piece of ginger and 1 finely chopped red chilli, cook for 1 min, then add 1 ½ tsp ground turmeric and 1 ½ tsp ground cumin and cook for 1 min more. ",
@@ -1612,12 +1612,12 @@
                                 "Alternatively, allow to cool completely, then divide between airtight containers and store in the fridge for a healthy lunchbox."
                             ],
                             "url": "https://www.bbcgoodfood.com/recipes/spinach-sweet-potato-lentil-dhal",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe/recipe-image/2016/03/spinach-sweet-potato-and-lentil-dhal.jpg?itok=zPRVRh8y"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe/recipe-image/2016/03/spinach-sweet-potato-and-lentil-dhal.jpg?itok=zPRVRh8y"
                         },
                         {
                             "recipeName": "Spinach Rice",
                             "description": "Cook baby spinach with the rice to bring out the colour in this vegetarian side dish - perfect as part of a Greek Easter lunch.",
-                            "IngredientsDetailed": [
+                            "ingredientsDetails": [
                                 "100ml Greek extra virgin olive oil",
                                 "1 onion, finely chopped",
                                 "500g baby spinach leaves, washed and finely chopped",
@@ -1625,7 +1625,7 @@
                                 "300g long-grain rice",
                                 "juice 1-2 lemons"
                             ],
-                            "Instructions": [
+                            "instructions": [
                                 "Heat the oil in a large pan, add the onion and gently cook until softened but not coloured.",
                                 "Add the spinach and half the dill. Cook on a high heat, stirring regularly, until the spinach has wilted down and all the liquid has evaporated.",
                                 "Stir in the rice and add 600ml water, then bring to the boil.",
@@ -1634,7 +1634,7 @@
                                 "When the rice is cooked, stir in the remaining dill, season well, squeeze over the lemon juice to taste, and serve."
                             ],
                             "url": "https://www.bbcgoodfood.com/recipes/spinach-rice",
-                            "Imgurl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/spinach-rice.jpg?itok=Ja9U1qUs"
+                            "imgUrl": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/spinach-rice.jpg?itok=Ja9U1qUs"
                         }
                     ]
                 }

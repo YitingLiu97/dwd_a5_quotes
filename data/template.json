@@ -12,10 +12,10 @@
                         {
                             "recipeName": "",
                             "description": "",
-                            "IngredientsDetailed": [],
-                            "Instructions": [],
+                            "ingredientsDetails": [],
+                            "instructions": [],
                             "url": "",
-                            "Imgurl": ""
+                            "imgUrl": ""
                         }
                     ]
                 }

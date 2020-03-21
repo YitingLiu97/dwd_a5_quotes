@@ -64,18 +64,18 @@ function userReq(mood) {
 function recipeContent(foodList){
     let recipeContent=document.getElementsByClassName('recipeContent'),
     recipeDetails=document.getElementById('recipeDetails'),
-    recipeInstructions=document.getElementById('recipeInstructions'),
+    recipeinstructions=document.getElementById('recipeinstructions'),
     readmore=document.getElementById('readmore');
 
     foodList.forEach(e=>{
         
-      e.IngredientsDetailed.forEach(i=>{
+      e.ingredientsDetails.forEach(i=>{
           recipeDetails.append(i);
           return `${i}<br>`;
       });
 
-      e.Instructions.forEach(l=>{
-        recipeInstructions.append(l);
+      e.instructions.forEach(l=>{
+        recipeinstructions.append(l);
         return `${l}<br>`;
       });
 
@@ -97,7 +97,7 @@ function foodContent(foodList){
     foodList.forEach(e=>{
         name.innerHTML=e.recipeName;
         // console.log(name);
-        img.src=e.Imgurl;
+        img.src=e.imgUrl;
         description.innerHTML=e.description;
     });
 
