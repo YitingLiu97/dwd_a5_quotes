@@ -150,5 +150,6 @@ I also want to customize the cursor into some food or drink emojis and I would l
 * [Zeyao Li's work](https://github.com/zeyaoli/Laura-Dern-API)
 * [BBC good food](https://www.bbcgoodfood.com/recipes/category/cuisines)
 * [Research on mood for food](https://docs.google.com/spreadsheets/d/1R3hvB-oSJMKauBgnzyUCVXndSItdwuIQi5NXpZDHloA/edit?usp=sharing) 
+* [Emoji Food and Drink](https://emojipedia.org/food-drink/)
 <!-- 
 * [xxx](xx) -->

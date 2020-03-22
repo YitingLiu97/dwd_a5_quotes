@@ -41,6 +41,8 @@ const recipeModel = mongoose.model("recipeModel", recipeSchema);
 console.log(recipeModel);
 
 app.use(express.static("public"));
+// app.use(express.static("assets"));
+
 app.use(express.json());
 
 function random(min, max){
