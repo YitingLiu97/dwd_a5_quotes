@@ -11,57 +11,33 @@
 
 <body>
 
-
+<header></header>
     <h1>Mood for Food </h1>
-    <p>Find the fillings to your feelings.</p>
+    <p id="slogan">Find the fillings to your feelings.</p>
 
-    <h2>I am feeling:</h2>
-    <select name="emotions" id="SelectEmotion">
-        <option value="anger" selected>Angry</option>
-        <option value="sad">Sad</option>
-        <option value="stressed">Stressed</option>
-    </select>
-
-    <button id="moodtofood">Show me the food</button>
-    <p id="output">show here</p>
-
-    <div id = "recipeContainer"></div>
-
-    <!-- <div class="foodContent">
-        <h2 id="foodName"></h2>
-        <img id="foodImg" src="" alt="">
-        <p id="foodDescription"></p>
+    <div class="selections">
+        <h2 id="imfeeling">I am feeling:</h2>
+        <select class="dropdown" name="emotions" id="SelectEmotion">
+            <option value="anger" selected>Angry</option>
+            <option value="sad">Sad</option>
+            <option value="stressed">Stressed</option>
+        </select>
     </div>
 
-    <div class='ingredeintContent'>
-        <h2 id='ingredeint'></h2>
-        <p id='benefits'></p>
-        <a id='ingredientLink' href="#"></a>
+    <!-- <div class="button"> -->
+    <button class="button" id="moodtofood">Show me the food</button>
+    <!-- </div> -->
+    <p id="output"></p>
+    <br><br>
+
+    <div id="recipeContainer"></div>
+
+    <br><br><br><br>
+    <div class="footer">
+        <p>Mood for Food is created by
+            <a href="https://yitingliu97.wordpress.com/">Yiting Liu</a>, a proud foodie 😛.
+        </p>
     </div>
-
-    <div class='recipeContent'>
-        <h1>Details</h1>
-        <ul id ="recipeDetails"></ul>
-        <h1>instructions</h1>
-        <ol id='recipeinstructions'></ol>
-
-        <a id="readmore" href="">read more</a> -->
-        <!-- <button type="button "id="readmore" onclick='readmore()'></button> -->
-    </div>
-
-
-
-
-    <!-- <div>
-        <img src="#" alt="" id="foodImg"> Food Img with img url
-        <h1 id ="foodname">Food Name</h1>
-        <h2 id="Details">Ingredient Detail</h2>
-        <ol id="instructions">
-            <li>instructions</li>
-        </ol>
-        <a href="#" id="url">give a url link to the cuisine</a>
-
-    </div> -->
 
 </body>
 

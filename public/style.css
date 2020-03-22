@@ -1,0 +1,215 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Red Hat Display', sans-serif;
+    text-align: center;
+    color: #000000;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    /* cursor: url("https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/grapes_1f347.png"), pointer; */
+}
+
+/* .mycursor{
+    size: 100px;
+ /* }  */
+
+p {
+    font-size: 15px;
+    text-align: left;
+}
+
+h1 {
+    /* position: fixed; */
+    /* width: 100vw; */
+    font-style: normal;
+    font-weight: bold;
+    margin: 10vw 0 1vw 0;
+    font-size: 50px;
+}
+
+#slogan {
+    /* position: relative; */
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+}
+
+#imfeeling {
+    display: inline-block;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    margin: 20vh 1vw 0vh 2vw;
+}
+
+.dropdown {
+    margin-left: 3vw;
+    display: inline-block;
+    border: none;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Red Hat Display', sans-serif;
+    width: 20vw;
+    height: 7vh;
+    background-color: lightpink;
+    text-align: center;
+    color: white;
+}
+
+.button {
+    display: inline-flexbox;
+    /* position: center; */
+    text-align: center;
+    margin: 20vh 0;
+    width: 30vw;
+    height: 10vh;
+    left: 30vw;
+    border: none;
+    /* border-collapse: separate; */
+    border-bottom: 1pt solid lightpink;
+    /* border-style: solid; */
+    text-decoration: none;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.button:hover {
+    border-bottom: 1pt solid black;
+    color: lightpink;
+}
+
+.button:active {
+    color: lightpink;
+    /* border:none; */
+}
+
+.button::after {
+    color: lightpink;
+}
+
+#output {
+    text-align: left;
+    font-size: 25px;
+    left: 0;
+    padding-top: 3vw;
+    /* padding-left: 3vw; */
+    color: lightpink;
+}
+
+.recipeContainer {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+}
+
+.recipeCard {
+    display: inline-block;
+    position: relative;
+    /* flex-direction: row; */
+    /* align-items: center; */
+    text-align: left;
+    align-self: auto;
+    align-items: center;
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    /* height:33vh; */
+}
+
+.recipeCard h2 {
+    position: absolute;
+    left: 0;
+    top: 0;
+    text-align: left;
+    font-size: 20px;
+    padding: 3vw;
+}
+
+.recipeCard p {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    padding: 3vw;
+    width: 250px;
+}
+
+.recipeCard img {
+    width: 300px;
+    height: 300px;
+    /* align-items: center; */
+    object-fit: cover;
+    border-style: none;
+}
+
+.recipeCard a {
+    /* text-decoration: none; */
+    color: black;
+    /* display: none; */
+
+}
+
+.text {
+    visibility: hidden;
+}
+
+.recipeCard:hover .text {
+    visibility: visible;
+    /* background-color: black; */
+}
+
+.recipeCard img:hover {
+    /* background-image: none; */
+    /* background-color: thistle; */
+    /* background-size: 1000%; */
+    opacity: 30%;
+    /* background-size: 200%; */
+}
+
+.footer {
+    position: fixed;
+    color: black;
+    padding: 3vw;
+    bottom: 0;
+    right: 0;
+    background-color: white;
+    width: 100vw;
+}
+
+.footer p {
+    text-align: center;
+    font-size: 10px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.footer a {
+    text-decoration: none;
+    color: pink;
+}
+
+/* phone usage */
+
+@media screen and (max-width: 800px) {
+    h1{
+        font-size: 40px;
+    }
+
+    h2{
+        font-size: 20px;
+    }
+    #slogan{
+        font-size: 15px;
+    }
+    #imfeeling{
+        font-size: 20px;
+    }
+
+}

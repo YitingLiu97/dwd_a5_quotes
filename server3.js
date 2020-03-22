@@ -3,6 +3,7 @@ const path = require('path');
 const fs = require('fs');
 const mongoose = require('mongoose');
 const app = express();
+let foodLimit=6;
 
 require('dotenv').config();
 const MONGO_URL = process.env.MONGO_URL;
@@ -42,6 +43,10 @@ console.log(recipeModel);
 app.use(express.static("public"));
 app.use(express.json());
 
+function random(min, max){
+    return Math.floor(Math.random()*(max-1-min));
+}
+
 app.get("/", (req, res) => {
     res.sendFile(path.join(__dirname, "views/index.html"))
 });
@@ -61,21 +66,20 @@ app.get("/recipes/anger", (req, res) => {
     recipeModel.find({emotionType:"anger"}, (err, docs) => {
         res.json(docs);
         // console.log(recippe);
-    });
+    }).skip(random(0,18)).limit(foodLimit);
 });
 
 app.get("/recipes/sad", (req, res) => {
     recipeModel.find({emotionType:"sad"}, (err, docs) => {
         res.json(docs);
         // console.log(recippe);
-    });
+    }).skip(random(0,20)).limit(foodLimit);
 });
 
 app.get("/recipes/stressed", (req, res) => {
     recipeModel.find({emotionType:"stressed"}, (err, docs) => {
         res.json(docs);
-        // console.log(recippe);
-    });
+    }).skip(random(0,18)).limit(foodLimit);
 });
 
 app.listen(process.env.PORT || 3000, () => {
