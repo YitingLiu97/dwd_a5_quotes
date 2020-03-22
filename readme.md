@@ -16,12 +16,12 @@ I am a foodie and everytime I think about what I want to eat next meal after mea
 <!-- some potential npm libraries for this project are: -->
 
 npm libraries used:
-1. [dotenv]
-2. [express]
-3. [mongoose]
-4. [morgan]
-5. [node]
-6. [nodemon]
+1. [dotenv](https://www.npmjs.com/package/dotenv)
+2. [express](https://www.npmjs.com/package/express)
+3. [mongoose](https://www.npmjs.com/package/mongoose)
+4. [morgan](https://www.npmjs.com/package/morgan)
+5. [node](https://www.npmjs.com/package/node)
+6. [nodemon](https://www.npmjs.com/package/nodemon)
 
 Clone the repo and install npm library, you can do as below in your terminal:
 ```sh
