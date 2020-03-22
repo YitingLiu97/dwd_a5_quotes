@@ -1,10 +1,15 @@
 <!-- Every README should start with an H1 -->
 # The Mood for Food Project
 <!-- A one sentence description of the project or assignment -->
-I am a foodie and everytime I think about what I want to eat next meal after meal. I enjoy the process of exploring amazing food to make or to eat out. However, it could be exhuasting at times. Also, my mood affects what I want to eat. I want to combine my mood with food searching tools to create a whimsical and playful search engine for food to make or food to get. 
+A website offers food options based on emotions by user input. 
+
+![Homepage Demo](https://github.com/YitingLiu97/mood_for_food/blob/master/photos/webflow.png)
 
 <!-- It is good practice to add an about or summary -->
 <!-- ## About -->
+## About
+I am a foodie and everytime I think about what I want to eat next meal after meal. I enjoy the process of exploring amazing food to make or to eat out. However, it could be exhuasting at times. Also, my mood affects what I want to eat. I want to combine my mood with food searching tools to create a whimsical and playful search engine for food to make or food to get. 
+
 
 <!-- It is essential to describe how to set up your project -->
 ## Setup

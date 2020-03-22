@@ -82,6 +82,6 @@ app.get("/recipes/stressed", (req, res) => {
     }).skip(random(0,18)).limit(foodLimit);
 });
 
-app.listen(process.env.PORT || 3000, () => {
-    console.log("Server is listening on port 3000!");
+app.listen(process.env.PORT || 4000, () => {
+    console.log("Server is listening on port 4000!");
 });
