@@ -83,9 +83,6 @@ Thanks to the help of [Cassie Tarakajian](https://github.com/catarak), [Tito](ht
 * [Openmoji project](https://www.openmoji.org/library/#search=notebook&emoji=1F4D4) for their glyphs
 * [PurpleBooth's Readme Template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) -->
 
-***
-***
-***
 
 <!-- For your assignments you might consider  -->
 # Notes & Process
@@ -104,29 +101,14 @@ Here are the user interface flow of my website.
 
 ![General Webflow](https://github.com/YitingLiu97/mood_for_food/blob/master/photos/webflow.png)
 
-![Main Page](https://github.com/YitingLiu97/mood_for_food/blob/master/photos/mainpage.png)
-
-![Food Images](https://github.com/YitingLiu97/mood_for_food/blob/master/photos/foodimages.png)
-
-![Food Details](https://github.com/YitingLiu97/mood_for_food/blob/master/photos/fooddetails.png)
-
-![Food Details](https://github.com/YitingLiu97/mood_for_food/blob/master/photos/fooddetailsmore.png)
-
-
 <!-- Any specific challenges or struggles documented -->
 ## Challenges & Struggles
 
-### Front End
+### Front End - Flexbox 
+### Front End - Hover Effect  
+### Front End - Cursor Customization
 
-
-#### Flexbox 
-
-#### Hover Effect 
-#### Cursor Customization
-
-
-### Back End 
-#### Data Structure  
+### Back End - Data Structure 
 I was confused at first about the database to MongoDB since I wasn't clear of the order of making the data structure.
 
 I was thinking how user would access the data at first and I was trying to be super ambitious in building a very comprehensive database where almost all the information will be displayed. I didn't use MongoDB at first since I was building my own JSON file. It turns out connecting to MongoDB using Mongoose would make the whole process easier. 
@@ -139,18 +121,17 @@ However, things became extremely difficult for me to find certain variable withi
 Emotion Types ==> Recipe Information ==> Further Details of Special Ingredients ==> Link to Url
 ```
 
-#### MongoDB 
+### Back End - MongoDB 
 I then  updated my data structure to fit the flow of it and used MongoDB. There were some obstacles for me. I couldn't get the update of the collection of the database on [MongoAtlas](https://www.mongodb.com/cloud/atlas). Later, I discovered that I should replace the text in the URL with my app name. In this case, I need to replace the text with 
 ```sh
 mood-for-food
 ```
 
-#### Deployment to Heroku
+### Deployment to Heroku
 
 I was having trouble deploying to Heroku. It shows me "Application Error" and when I checked log, it shows "npm ERR".
 
-![Heroku Error]()
-
+![Heroku Error](https://github.com/YitingLiu97/mood_for_food/blob/master/photos/Heroku%20Error.png)
 
 
 <!-- Any questions you have -->
@@ -159,7 +140,7 @@ I would like to link user to another webpage with the collection of food images.
 
 I also want to customize the cursor into some food or drink emojis and I would like them to change according to the mouse position on the canvas. 
 
-Questions:
+### Questions:
 1. How to move the content of images to another page?
 2. How to customize cursor with images or emojis that change according to the mouse position? 
 
