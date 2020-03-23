@@ -22,12 +22,8 @@ const recipeSchema = mongoose.Schema({
     emotionType: String,
     recipeName: String,
     description: String,
-    ingredientsDetails: [
-        String
-    ],
-    instructions: [
-        String
-    ],
+    ingredientsDetails: [String],
+    instructions: [String],
     url: String,
     imgUrl: String,
     specialIngredient: {

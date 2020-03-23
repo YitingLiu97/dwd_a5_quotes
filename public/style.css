@@ -15,6 +15,7 @@ body {
     z-index: 20;
     cursor: url('assets/cursor/grinning-face-with-star-eyes.png'),auto;
 }
+
 #emojis{
     position: fixed;
     width: 100%;
@@ -27,25 +28,33 @@ body {
 
 }
 
+#instruction{
+    font-size: 10px;
+    padding-top: 10px;
+}
+
 p {
     font-size: 15px;
     text-align: left;
+    margin: auto;
 }
 
 h1 {
     font-style: normal;
     font-weight: bold;
+    text-align: center;
     padding-top: 10vh;
-    font-size: 50px;
+    font-size: 60px;
 }
 
 #slogan {
     /* position: relative; */
+    padding-top: 1%;
     text-align: center;
     font-family: 'Roboto Mono', monospace;
     font-style: normal;
     font-weight: normal;
-    font-size: 15px;
+    font-size: 20px;
 }
 
 .selections{
@@ -88,7 +97,7 @@ h1 {
     font-size: 25px;
     font-style: normal;
     font-weight: bold;
-    cursor: url('assets/cursor/rolling-on-the-floor-laughing.png'),auto;
+    cursor: url('assets/cursor/face-throwing-a-kiss.png'),auto;
 
 }
 
@@ -103,7 +112,7 @@ h1 {
     left: 0;
     padding-top: 3vw;
     /* padding-left: 3vw; */
-    color: lightpink;
+    /* color: lightpink; */
 }
 
 .recipeContainer {
@@ -118,14 +127,9 @@ h1 {
     z-index:40;
     display: inline-block;
     position: relative;
-    /* flex-direction: row; */
-    /* align-items: center; */
-    text-align: left;
-    align-self: auto;
-    align-items: center;
-    width: 300px;
-    height: 300px;
-    margin: 10px;
+    width: 350px;
+    height: 350px;
+    margin: 2%;
     cursor: url('assets/cursor/smiling-face-with-smiling-eyes-and-three-hearts.png'),auto;
 
 }
@@ -136,20 +140,19 @@ h1 {
     top: 0;
     text-align: left;
     font-size: 20px;
-    padding: 3vw;
 }
 
 .recipeCard p {
     position: absolute;
     left: 0;
     bottom: 0;
-    padding: 3vw;
-    width: 250px;
+    text-align: left;
+    width: 300px;
 }
 
 .recipeCard img {
-    width: 300px;
-    height: 300px;
+    width: 350px;
+    height: 350px;
     /* align-items: center; */
     object-fit: cover;
     border-style: none;
@@ -161,7 +164,7 @@ h1 {
     /* text-decoration: none; */
     color: black;
     /* display: none; */
-    cursor: url('assets/cursor/smiling-face-with-smiling-eyes-and-three-hearts.png'),auto;
+    /* cursor: url('assets/cursor/smiling-face-with-smiling-eyes-and-three-hearts.png'),auto; */
 
 
 }
@@ -172,27 +175,19 @@ a{
 
 .text {
     visibility: hidden;
+    /* border: 1pt black dotted; */
+    padding: 3vw;
 }
 
 .recipeCard:hover .text {
     visibility: visible;
-    /* background-color: black; */
 }
 
-.recipeCard img:hover {
-    /* background-image: none; */
-    /* background-color: thistle; */
-    /* background-size: 1000%; */
+.recipeCard img:hover{
     opacity: 30%;
-    /* background-size: 200%; */
 }
 #tryAgain{
     visibility: hidden;
-    /* position: relative; */
-    /* display: inline-block; */
-    /* bottom: 3vw; */
-
-
 }
 .footer {
     z-index:200;
@@ -202,6 +197,7 @@ a{
     bottom: 0;
     right: 0;
     background-color: white;
+    /* height: 1vh; */
     width: 100vw;
 }
 
@@ -213,7 +209,7 @@ a{
 
 .footer a {
     text-decoration: none;
-    color: pink;
+    /* color: pink; */
 }
 
 
@@ -232,7 +228,13 @@ a{
         font-size: 20px;
     }
     #slogan{
+        padding-top: 1%;
         font-size: 15px;
+    }
+
+    #instruction{
+        font-size: 10px;
+        padding-top: 5%;
     }
     #imfeeling{
         font-size: 20px;

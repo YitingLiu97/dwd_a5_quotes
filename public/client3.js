@@ -9,7 +9,6 @@ window.addEventListener('DOMContentLoaded', async () => {
     const buttonBottom = document.getElementById('tryAgain');
     let selectedEmotion;
 
-
     buttonMain.addEventListener('click', async function () {
 
         selectedEmotion = emotionList.options[emotionList.selectedIndex].value;
@@ -30,7 +29,7 @@ window.addEventListener('DOMContentLoaded', async () => {
     });
 
     funpart();
-    window.onscroll = function () { scrollFunction() };
+    // window.onscroll = function () { scrollFunction() };
     buttonBottom.addEventListener('click', function(){window.scroll({
             top:0,
             left:0,
@@ -56,9 +55,8 @@ function recipeCard(recipe) {
 
     return `<div class="recipeCard">
     <a href="${recipe.url}"><img src="${recipe.imgUrl}">
-    <div class="text">
-        <h2 >${recipe.recipeName}</h2>
-        <p >${recipe.description} </p></div></a>
+        <h2 class="text">${recipe.recipeName}</h2>
+        <p class="text">${recipe.description} </p></a>
     </div>`;
 
 }
@@ -129,18 +127,18 @@ let resetColor = (e) => {
     ;
 }
 
-let emojiText = (e) => {
+// let emojiText = (e) => {
 
-    let text = document.getElementById('emojis');
+//     let text = document.getElementById('emojis');
 
-    // text.setAttribute('p', "Any Key to Add Emoji, Space Bar to Clear");
-    text.innerHTML = "Any Key to Add Emoji, Space Bar to Clear";
-    text.style.top = '0';
-    text.style.left = '0';
+//     // text.setAttribute('p', "Any Key to Add Emoji, Space Bar to Clear");
+//     text.innerHTML = "Any Key to Add Emoji, Space Bar to Clear";
+//     text.style.top = '0';
+//     text.style.left = '0';
 
-    return console.log(text);
+//     return console.log(text);
 
-}
+// }
 //whereever key is pressed, generate emoji in random position 
 let randomEmoji = (e) => {
     let xy = randomLocation();
@@ -170,12 +168,6 @@ let randomEmoji = (e) => {
         // console.log('keyNum', keyNum);
     }
 
-}
-
-function tryAgain(e) {
-    window.location.href = "#tryAgain";
-    e.preventDefault();
-    e.stopPropagation();
 
 }
 
@@ -198,9 +190,6 @@ function tryAgain(e) {
 // document,addEventListener('mouseover',)
 
 // changeColor();
-
-
-
 
 //scroll down to the bottom, shows up the text - tryAgain button 
 
