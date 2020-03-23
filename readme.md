@@ -3,6 +3,8 @@
 <!-- A one sentence description of the project or assignment -->
 A website offers food options based on emotions by user input. [Check out the live website here.](https://mood-for-food.herokuapp.com/)
 
+[Demo video here](https://youtu.be/y0P5csld8_0);
+
 ![Homepage Demo](https://github.com/YitingLiu97/mood_for_food/blob/master/photos/homepagefinal.png)
 
 ![foodImgsDemo](https://github.com/YitingLiu97/mood_for_food/blob/master/photos/foodImgsDemo.jpg)
@@ -88,14 +90,7 @@ Thanks to the help of [Cassie Tarakajian](https://github.com/catarak), [Tito](ht
 
 <!-- For your assignments you might consider  -->
 # Notes & Process
-
-I have a general idea of the wireframe of this webpage. 
-
-Next steps: 
-1. look for npm libraries and API for moods and food 
-2. search for similar search engine and analyze it
-3. create a data model for the information 
-
+This project is a 2-week project. 
 <!-- How you built this project - Include images, gifs, and notes here -->
 ## Process & Documentation
 ### Webflow
@@ -103,25 +98,79 @@ Here are the user interface flow of my website.
 
 ![General Webflow](https://github.com/YitingLiu97/mood_for_food/blob/master/photos/webflow.png)
 
+### Research 
+I did research to figure out what food is for certain emotion. I searched for six universal human emotions: happy, sad, anger, surprise, fear, disgust from [here](https://www.verywellmind.com/an-overview-of-the-types-of-emotions-4163976). I decided to start with three emotions: sad, stressed, and anger since most of the information I found are to make people happy in terms of food selections. 
+
+I built my data model in excel first. 
+This is ingredients for emotions:
+
+![mood for food database 1](https://github.com/YitingLiu97/mood_for_food/blob/master/photos/excel_database_1.jpeg)
+
+This is recipes for each individual ingredient:
+
+![mood for food database 2](https://github.com/YitingLiu97/mood_for_food/blob/master/photos/excel_database_2.jpeg)
+
+For my detailed excel sheet, please go [here](https://docs.google.com/spreadsheets/d/1R3hvB-oSJMKauBgnzyUCVXndSItdwuIQi5NXpZDHloA/edit?usp=sharing)
+
+### Interaction 
+I tried to smooth the interaction in terms of user experience. I used window.scrollIntoView() to make sure one button press can automatically move to another element of the body. In this case, when you press the button "show me the food", it will scroll to "because you are feeling". Identifically, I used this method for another button at the bottom to nudge users to play with the website more. When they press the bottom button, it will direct them to the top of the page. 
+
+### Fun Part 
+I created the function of fun part in my client.js to have the following features:
+* Change background color based on mouse position
+* Reset background color when mouse is off the website 
+* Add emojis based on key press
+* Clearn emojis when pressing spacebar
+
+It was quite fun to play with JS to make it look pretty and fun. 
+
 <!-- Any specific challenges or struggles documented -->
 ## Challenges & Struggles
+### Front End - Databse Info not showing 
+I ran into a problem with the database information didn't show up on the index.html. It was working in my console.log. I got this:
+
+![struggle show comma](https://github.com/YitingLiu97/mood_for_food/blob/master/photos/Struggle_6_show_comma.jpeg)
+
+Then I figured it out that I had to use a forEach rather than map since map creates a new array. Hence it explains the comma situation. 
 
 ### Front End - Flexbox 
+I was having trouble with flexbox to create what I wanted. Turned out I would have to make sure the whole page with the display:flex and tweak around the row and column and other details. This website is a [complete guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/). 
+
 ### Front End - Hover Effect  
+I wanted to hover on top of the image to show the text. Since I created the image and recipe content in JS, it took me a while to understand how to do so. I set class for the heading and text for the recipe information and make sure the visiblity is hidden at first to make it work.
+
 ### Front End - Cursor Customization
+I wanted to customize the cursor in JS since I would ideally want the different emojis to replace the default cursor every 10 seconds when user is browsing on the page. However, I tried in JS to use the code below. It still didn't work. I tried console.log in the browser to see the cursor, it only shows "". 
+
+```sh
+document.body.style.cursor(`url(${emojiUrl}),auto;`);
+```
+So I just customized the cursor in CSS. I woudl love to learn to customize the cursor in JS in the future. 
 
 ### Back End - Data Structure 
 I was confused at first about the database to MongoDB since I wasn't clear of the order of making the data structure.
 
-I was thinking how user would access the data at first and I was trying to be super ambitious in building a very comprehensive database where almost all the information will be displayed. I didn't use MongoDB at first since I was building my own JSON file. It turns out connecting to MongoDB using Mongoose would make the whole process easier. 
+I was thinking how user would access the data at first and I was trying to be super ambitious in building a very comprehensive database where almost all the information will be displayed. 
+
+![information displayed in one](https://github.com/YitingLiu97/mood_for_food/blob/master/photos/Struggle_1_all_instrutions_in_one.jpeg)
+
+I didn't use MongoDB at first since I was building my own JSON file. It turns out connecting to MongoDB using Mongoose would make the whole process easier. 
 
 I did conquer the part of showing the content with my previous data structure before using any MongoDB. 
+
+This is how the webpage looks like using my difficult old-school method:
+
+![difficult way showing database content](https://github.com/YitingLiu97/mood_for_food/blob/master/photos/Early_process_showing_content_difficult_way.jpeg)
 
 However, things became extremely difficult for me to find certain variable within the JSON file. After consulting with Cassie, she recommended me to think of the flow of the data before creating a data structure. The flow would be 
 
 ```sh
 Emotion Types ==> Recipe Information ==> Further Details of Special Ingredients ==> Link to Url
 ```
+
+Here is the detailed look of the database I learned from the office hour with Cassie. 
+
+![learning schema](https://github.com/YitingLiu97/mood_for_food/blob/master/photos/Struggle_learning_schema.jpeg)
 
 ### Back End - MongoDB 
 I then  updated my data structure to fit the flow of it and used MongoDB. There were some obstacles for me. I couldn't get the update of the collection of the database on [MongoAtlas](https://www.mongodb.com/cloud/atlas). Later, I discovered that I should replace the text in the URL with my app name. In this case, I need to replace the text with 
@@ -135,17 +184,21 @@ I was having trouble deploying to Heroku. It shows me "Application Error" and wh
 
 ![Heroku Error](https://github.com/YitingLiu97/mood_for_food/blob/master/photos/Heroku%20Error.png)
 
+It turned out that I had to put the KEY and VALUE in the Config Vars in the settings of my APP page. 
 
 <!-- Any questions you have -->
 ## Questions and Next Steps
+* Elaborated Pages
+* Cursor Customization in JS 
+* Smoother User Interactions 
+
 I would like to link user to another webpage with the collection of food images. When they click on the images, they will be directed to another page with customized design showing ingredient details and instructions. For this project till Mar. 21, 2020, I achieved in displaying the information in the index.html. I would like to make it more cohesive and comprehensive. 
 
 I also want to customize the cursor into some food or drink emojis and I would like them to change according to the mouse position on the canvas. 
 
 ### Questions:
 1. How to move the content of images to another page?
-2. How to customize cursor with images or emojis that change according to the mouse position? 
-
+2. How to customize cursor with images or emojis that change according to the mouse position or based on time spent on the page? 
 
 <!-- References for resources and inspiration -->
 ## References
@@ -153,5 +206,7 @@ I also want to customize the cursor into some food or drink emojis and I would l
 * [BBC good food](https://www.bbcgoodfood.com/recipes/category/cuisines)
 * [Research on mood for food](https://docs.google.com/spreadsheets/d/1R3hvB-oSJMKauBgnzyUCVXndSItdwuIQi5NXpZDHloA/edit?usp=sharing) 
 * [Emoji Food and Drink](https://emojipedia.org/food-drink/)
+* [Emoji Interaction from Ji Park](https://github.com/jipark119/second-website)
+
 <!-- 
 * [xxx](xx) -->
