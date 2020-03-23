@@ -3,7 +3,7 @@
 <!-- A one sentence description of the project or assignment -->
 A website offers food options based on emotions by user input. [Check out the live website here.](https://mood-for-food.herokuapp.com/)
 
-[Demo video here](https://youtu.be/y0P5csld8_0);
+[Demo video here](https://youtu.be/y0P5csld8_0).
 
 ![Homepage Demo](https://github.com/YitingLiu97/mood_for_food/blob/master/photos/homepagefinal.png)
 
@@ -41,7 +41,7 @@ npm install dotenv express mongoose morgan nodemon node
 3. Familiar with npm libraries and backend.  
 
 <!-- any installation needs should be defined -->
-### Installation
+<!-- ### Installation -->
 
 <!-- Write instructions on how to start working on your project -->
 <!-- ### Develop
@@ -110,10 +110,14 @@ This is recipes for each individual ingredient:
 
 ![mood for food database 2](https://github.com/YitingLiu97/mood_for_food/blob/master/photos/excel_database_2.jpeg)
 
-For my detailed excel sheet, please go [here](https://docs.google.com/spreadsheets/d/1R3hvB-oSJMKauBgnzyUCVXndSItdwuIQi5NXpZDHloA/edit?usp=sharing)
+For my detailed excel sheet, please go [here](https://docs.google.com/spreadsheets/d/1R3hvB-oSJMKauBgnzyUCVXndSItdwuIQi5NXpZDHloA/edit?usp=sharing).
 
 ### Interaction 
-I tried to smooth the interaction in terms of user experience. I used window.scrollIntoView() to make sure one button press can automatically move to another element of the body. In this case, when you press the button "show me the food", it will scroll to "because you are feeling". Identifically, I used this method for another button at the bottom to nudge users to play with the website more. When they press the bottom button, it will direct them to the top of the page. 
+I tried to smooth the interaction in terms of user experience. I used 
+```sh
+window.scrollIntoView()
+```
+to make sure one button press can automatically move to another element of the body. In this case, when you press the button "show me the food", it will scroll to "because you are feeling". Identifically, I used this method for another button at the bottom to nudge users to play with the website more. When they press the bottom button, it will direct them to the top of the page. 
 
 ### Fun Part 
 I created the function of fun part in my client.js to have the following features:
@@ -187,7 +191,7 @@ I was having trouble deploying to Heroku. It shows me "Application Error" and wh
 It turned out that I had to put the KEY and VALUE in the Config Vars in the settings of my APP page. 
 
 <!-- Any questions you have -->
-## Questions and Next Steps
+## Next Steps
 * Elaborated Pages
 * Cursor Customization in JS 
 * Smoother User Interactions 
