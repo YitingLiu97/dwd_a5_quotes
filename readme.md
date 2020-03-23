@@ -1,9 +1,11 @@
 <!-- Every README should start with an H1 -->
 # The Mood for Food Project
 <!-- A one sentence description of the project or assignment -->
-A website offers food options based on emotions by user input. 
+A website offers food options based on emotions by user input. [Check out the live website here.](https://mood-for-food.herokuapp.com/)
 
-![Homepage Demo](https://github.com/YitingLiu97/mood_for_food/blob/master/photos/homepage.png)
+![Homepage Demo](https://github.com/YitingLiu97/mood_for_food/blob/master/photos/homepagefinal.png)
+
+![foodImgsDemo](https://github.com/YitingLiu97/mood_for_food/blob/master/photos/foodImgsDemo.jpg)
 
 <!-- It is good practice to add an about or summary -->
 <!-- ## About -->
