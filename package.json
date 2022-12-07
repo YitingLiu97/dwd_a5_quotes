@@ -24,7 +24,7 @@
   "homepage": "https://github.com/YitingLiu97/mood_for_food#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "mongoose": "^5.9.5",
     "morgan": "^1.10.0",
     "node": "^13.10.1",
